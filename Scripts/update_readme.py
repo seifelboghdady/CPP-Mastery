@@ -1,4 +1,5 @@
 import os
+import urllib.parse
 
 # الإعدادات - الفولدرات اللي السكربت هيتجاهلها
 EXCLUDE_DIRS = {'.git', '.github', 'Scripts'}
@@ -24,7 +25,8 @@ def generate_readme():
                 problem_name = file.replace(CPP_EXTENSION, "").replace("_", " ")
                 
                 # تحديث الروابط لتكون متوافقة مع GitHub
-                github_link = f"./{path.replace(os.sep, '/')}"
+                relative_path = path.replace(os.sep, '/')
+                github_link = f"./{urllib.parse.quote(relative_path)}"
                 
                 problems_list.append({
                     "name": problem_name,
