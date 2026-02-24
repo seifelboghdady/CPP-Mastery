@@ -5,10 +5,11 @@ Welcome to my automated portfolio for competitive programming. This README is up
 ## 📊 Statistics
 | Category | Solved |
 |--- | ---|
-| **Codeforces** | 1 |
-| **Total** | **1** |
+| **Codeforces** | 2 |
+| **Total** | **2** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Category | Solution |
 |---|--------------|----------|----------|
-| 1 | most-similar-word | Codeforces | [View Code](././Codeforces/most-similar-word.cpp) |
+| 1 | Three-Numbers-Sum | Codeforces | [View Code](././Codeforces/Time _Complexity - Functions - Structs/Three-Numbers-Sum.cpp) |
+| 2 | most-similar-word | Codeforces | [View Code](././Codeforces/most-similar-word.cpp) |
