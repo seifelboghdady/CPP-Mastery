@@ -1,0 +1,28 @@
+name: Auto Update Readme
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '**.cpp' # يشتغل فقط لما ترفع ملفات C++ جديدة
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Run Script
+        run: python Scripts/update_readme.py
+        
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "docs: update README with new problems [skip ci]" || exit 0
+          git push

@@ -1,0 +1,10 @@
+*.exe
+*.out
+*.log
+*.tmp
+*.bak
+*.obj
+*.dll
+*.pdb
+*.cache
+.vscode/
