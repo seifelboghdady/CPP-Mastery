@@ -1,57 +1,64 @@
 import os
 import urllib.parse
 
-# الإعدادات - الفولدرات اللي السكربت هيتجاهلها
 EXCLUDE_DIRS = {'.git', '.github', 'Scripts'}
 CPP_EXTENSION = '.cpp'
 
 def generate_readme():
     content = "# 🚀 Problem Solving Journey\n\n"
-    content += "Welcome to my automated portfolio for competitive programming. This README is updated automatically by a GitHub Action.\n\n"
+    content += "Welcome to my automated portfolio. This README is updated automatically.\n\n"
     
-    # قسم الإحصائيات (Stats Dashboard)
     stats = {}
     problems_list = []
 
-    # المسح الشامل للفولدرات
     for root, dirs, files in os.walk('.'):
         dirs[:] = [d for d in dirs if d not in EXCLUDE_DIRS]
         
         for file in files:
             if file.endswith(CPP_EXTENSION):
-                # استخراج البيانات
                 path = os.path.join(root, file)
-                category = root.split(os.sep)[1] if os.sep in root else "General"
-                problem_name = file.replace(CPP_EXTENSION, "").replace("_", " ")
-                
-                # تحديث الروابط لتكون متوافقة مع GitHub
                 relative_path = path.replace(os.sep, '/')
-                github_link = f"./{urllib.parse.quote(relative_path)}"
+                if relative_path.startswith('./'):
+                    relative_path = relative_path[2:]
+                
+                encoded_path = urllib.parse.quote(relative_path)
+                github_link = f"./{encoded_path}"
+                
+                # تحليل المسار لاستخراج التصنيفات
+                path_parts = root.split(os.sep)
+                # Category 1: المجلد الأب (مثلاً Codeforces)
+                category1 = path_parts[1] if len(path_parts) > 1 else "General"
+                # Category 2: المجلد الفرعي مباشرة (مثلاً Strings أو Loops)
+                category2 = path_parts[-1] if len(path_parts) > 1 else "-"
+                
+                problem_name = file.replace(CPP_EXTENSION, "").replace("-", " ").replace("_", " ")
                 
                 problems_list.append({
                     "name": problem_name,
-                    "category": category,
+                    "cat1": category1,
+                    "cat2": category2,
                     "link": github_link
                 })
                 
-                stats[category] = stats.get(category, 0) + 1
+                # الإحصائيات بناءً على المنصة الأساسية
+                stats[category1] = stats.get(category1, 0) + 1
 
-    # إضافة لوحة الإحصائيات للـ README
+    # قسم الإحصائيات
     content += "## 📊 Statistics\n"
-    content += "| Category | Solved |\n|--- | ---|\n"
+    content += "| Platform | Solved |\n|--- | ---|\n"
     for cat, count in stats.items():
         content += f"| **{cat}** | {count} |\n"
     content += f"| **Total** | **{len(problems_list)}** |\n\n"
 
-    # إضافة الجدول الرئيسي
+    # الجدول الجديد بـ 5 أعمدة
     content += "## 📚 Problem Archive\n"
-    content += "| # | Problem Name | Category | Solution |\n"
-    content += "|---|--------------|----------|----------|\n"
+    content += "| # | Problem Name | Platform | Topic | Solution |\n"
+    content += "|---|--------------|----------|-------|----------|\n"
     
-    for i, prob in enumerate(reversed(problems_list), 1): # الأحدث يظهر أولاً
-        content += f"| {i} | {prob['name']} | {prob['category']} | [View Code]({prob['link']}) |\n"
+    # ترتيب من الأحدث للأقدم
+    for i, prob in enumerate(reversed(problems_list), 1):
+        content += f"| {i} | {prob['name']} | {prob['cat1']} | `{prob['cat2']}` | [View Code]({prob['link']}) |\n"
 
-    # كتابة الملف
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
 
