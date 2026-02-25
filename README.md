@@ -1,18 +1,19 @@
 # 🚀 Problem Solving Journey
 
-Welcome to my automated portfolio for competitive programming. This README is updated automatically by a GitHub Action.
+Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Statistics
-| Category | Solved |
+| Platform | Solved |
 |--- | ---|
-| **Codeforces** | 5 |
-| **Total** | **5** |
+| **Codeforces** | 6 |
+| **Total** | **6** |
 
 ## 📚 Problem Archive
-| # | Problem Name | Category | Solution |
-|---|--------------|----------|----------|
-| 1 | Weird-Function1 | Codeforces | [View Code](././Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
-| 2 | Weird-Function2 | Codeforces | [View Code](././Codeforces/Time%20_Complexity/Weird-Function2.cpp) |
-| 3 | Three-Numbers-Sum | Codeforces | [View Code](././Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
-| 4 | Swap-function | Codeforces | [View Code](././Codeforces/Time%20_Complexity/Swap-function.cpp) |
-| 5 | most-similar-word | Codeforces | [View Code](././Codeforces/most-similar-word.cpp) |
+| # | Problem Name | Platform | Topic | Solution |
+|---|--------------|----------|-------|----------|
+| 1 | Weird Function1 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
+| 2 | Weird Function2 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function2.cpp) |
+| 3 | 3d | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/3d.cpp) |
+| 4 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
+| 5 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
+| 6 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
