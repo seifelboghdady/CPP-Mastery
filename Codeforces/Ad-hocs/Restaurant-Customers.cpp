@@ -12,7 +12,7 @@ bool compare(event a, event b){
     if (a.time != b.time){
         return a.time < b.time;
     }
-    return a.type<b.type;
+    return  a.type > b.type;;
 }
 
 
