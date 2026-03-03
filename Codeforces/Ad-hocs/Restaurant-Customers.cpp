@@ -18,7 +18,7 @@ bool compare(event a, event b){
 
 int main(){
     int n; cin>>n;
-    event events[100005];
+    event events[200005];
     int eventCount = 0;
     for (int i = 0; i < n; i++)
     {
