@@ -5,8 +5,8 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Codeforces** | 23 |
-| **Total** | **23** |
+| **Codeforces** | 24 |
+| **Total** | **24** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -22,15 +22,16 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 9 | Updates array | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Updates-array.cpp) |
 | 10 | Max Books | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-Books.cpp) |
 | 11 | Sum pointer | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-pointer.cpp) |
-| 12 | max box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/max-box.cpp) |
-| 13 | Restaurant Customers | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Restaurant-Customers.cpp) |
-| 14 | Count | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Count.cpp) |
-| 15 | Favorite Sequence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Favorite-Sequence.cpp) |
-| 16 | Weird Function1 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
-| 17 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
-| 18 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
-| 19 | Vlad and theBest of Five | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Vlad-and-theBest-of-Five.cpp) |
-| 20 | 3d | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/3d.cpp) |
-| 21 | Sort Rectangles | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Sort-Rectangles.cpp) |
-| 22 | Weird Function2 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function2.cpp) |
-| 23 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
+| 12 | Max 2D Box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-2D-Box.cpp) |
+| 13 | max box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/max-box.cpp) |
+| 14 | Restaurant Customers | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Restaurant-Customers.cpp) |
+| 15 | Count | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Count.cpp) |
+| 16 | Favorite Sequence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Favorite-Sequence.cpp) |
+| 17 | Weird Function1 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
+| 18 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
+| 19 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
+| 20 | Vlad and theBest of Five | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Vlad-and-theBest-of-Five.cpp) |
+| 21 | 3d | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/3d.cpp) |
+| 22 | Sort Rectangles | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Sort-Rectangles.cpp) |
+| 23 | Weird Function2 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function2.cpp) |
+| 24 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
