@@ -5,8 +5,8 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Codeforces** | 32 |
-| **Total** | **32** |
+| **Codeforces** | 33 |
+| **Total** | **33** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -39,7 +39,8 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 26 | Deque Easy version | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Deque-Easy-version.cpp) |
 | 27 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence.cpp) |
 | 28 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
-| 29 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
-| 30 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
-| 31 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
-| 32 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
+| 29 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
+| 30 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
+| 31 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
+| 32 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
+| 33 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
