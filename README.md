@@ -5,8 +5,8 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Codeforces** | 39 |
-| **Total** | **39** |
+| **Codeforces** | 40 |
+| **Total** | **40** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -36,17 +36,18 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 23 | Deque Easy version | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Deque-Easy-version.cpp) |
 | 24 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
 | 25 | Meximization | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Meximization.cpp) |
-| 26 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
-| 27 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
-| 28 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
-| 29 | Table Tennis | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Table-Tennis.cpp) |
-| 30 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
-| 31 | Prepend and Append | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Prepend-and-Append.cpp) |
-| 32 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
-| 33 | Case of the Zeros and Ones | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Case-of-the-Zeros-and-Ones.cpp) |
-| 34 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
-| 35 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
-| 36 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
-| 37 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
-| 38 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
-| 39 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
+| 26 | Queue | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue.cpp) |
+| 27 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
+| 28 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
+| 29 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
+| 30 | Table Tennis | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Table-Tennis.cpp) |
+| 31 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
+| 32 | Prepend and Append | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Prepend-and-Append.cpp) |
+| 33 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
+| 34 | Case of the Zeros and Ones | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Case-of-the-Zeros-and-Ones.cpp) |
+| 35 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
+| 36 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
+| 37 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
+| 38 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
+| 39 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
+| 40 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
