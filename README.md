@@ -5,8 +5,8 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Codeforces** | 43 |
-| **Total** | **43** |
+| **Codeforces** | 45 |
+| **Total** | **45** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -34,23 +34,25 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 21 | Max 2D Box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-2D-Box.cpp) |
 | 22 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence.cpp) |
 | 23 | Deque Easy version | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Deque-Easy-version.cpp) |
-| 24 | Kefa and First Steps | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Kefa-and-First-Steps.cpp) |
-| 25 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
-| 26 | Meximization | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Meximization.cpp) |
-| 27 | Queue | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue.cpp) |
-| 28 | Bad Prices | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Bad-Prices.cpp) |
-| 29 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
-| 30 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
-| 31 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
-| 32 | Game with string | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Game-with-string.cpp) |
-| 33 | Table Tennis | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Table-Tennis.cpp) |
-| 34 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
-| 35 | Prepend and Append | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Prepend-and-Append.cpp) |
-| 36 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
-| 37 | Case of the Zeros and Ones | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Case-of-the-Zeros-and-Ones.cpp) |
-| 38 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
-| 39 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
-| 40 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
-| 41 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
-| 42 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
-| 43 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
+| 24 | Alternating Current | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Alternating-Current.cpp) |
+| 25 | Kefa and First Steps | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Kefa-and-First-Steps.cpp) |
+| 26 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
+| 27 | I Can Guess the Data Structure! | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/I-Can-Guess-the-Data-Structure%21.cpp) |
+| 28 | Meximization | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Meximization.cpp) |
+| 29 | Queue | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue.cpp) |
+| 30 | Bad Prices | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Bad-Prices.cpp) |
+| 31 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
+| 32 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
+| 33 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
+| 34 | Game with string | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Game-with-string.cpp) |
+| 35 | Table Tennis | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Table-Tennis.cpp) |
+| 36 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
+| 37 | Prepend and Append | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Prepend-and-Append.cpp) |
+| 38 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
+| 39 | Case of the Zeros and Ones | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Case-of-the-Zeros-and-Ones.cpp) |
+| 40 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
+| 41 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
+| 42 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
+| 43 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
+| 44 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
+| 45 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
