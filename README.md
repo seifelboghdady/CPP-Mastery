@@ -5,7 +5,7 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Intensive Training Level** | 1 |
+| **Training Level 1** | 1 |
 | **Codeforces** | 47 |
 | **Total** | **48** |
 
@@ -59,4 +59,4 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 45 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
 | 46 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
 | 47 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
-| 48 | Factory Machines | Intensive Training Level | `Binary Search` | [View Code](./Intensive%20Training%20Level/Binary%20Search/Factory-Machines.cpp) |
+| 48 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
