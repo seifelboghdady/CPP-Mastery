@@ -5,9 +5,9 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Training Level 1** | 3 |
+| **Training Level 1** | 4 |
 | **Codeforces** | 47 |
-| **Total** | **50** |
+| **Total** | **51** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -60,5 +60,6 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 46 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
 | 47 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
 | 48 | Interesting drink | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Interesting-drink.cpp) |
-| 49 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
-| 50 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
+| 49 | Aggressive cows | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Aggressive-cows.cpp) |
+| 50 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
+| 51 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
