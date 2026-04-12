@@ -5,9 +5,9 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Training Level 1** | 4 |
+| **Training Level 1** | 5 |
 | **Codeforces** | 47 |
-| **Total** | **51** |
+| **Total** | **52** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -60,6 +60,7 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 46 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
 | 47 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
 | 48 | Interesting drink | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Interesting-drink.cpp) |
-| 49 | Aggressive cows | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Aggressive-cows.cpp) |
-| 50 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
-| 51 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
+| 49 | Balanced Team | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Balanced-Team.cpp) |
+| 50 | Aggressive cows | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Aggressive-cows.cpp) |
+| 51 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
+| 52 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
