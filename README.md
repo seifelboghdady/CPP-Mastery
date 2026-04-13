@@ -5,9 +5,9 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Training Level 1** | 5 |
+| **Training Level 1** | 6 |
 | **Codeforces** | 47 |
-| **Total** | **52** |
+| **Total** | **53** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -63,4 +63,5 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 49 | Balanced Team | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Balanced-Team.cpp) |
 | 50 | Aggressive cows | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Aggressive-cows.cpp) |
 | 51 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
-| 52 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
+| 52 | Magic Powder | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Magic-Powder.cpp) |
+| 53 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
