@@ -5,9 +5,9 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Training Level 1** | 7 |
+| **Training Level 1** | 9 |
 | **Codeforces** | 47 |
-| **Total** | **54** |
+| **Total** | **56** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -59,10 +59,12 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 45 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
 | 46 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
 | 47 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
-| 48 | Interesting drink | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Interesting-drink.cpp) |
-| 49 | Balanced Team | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Balanced-Team.cpp) |
-| 50 | Aggressive cows | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Aggressive-cows.cpp) |
-| 51 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
-| 52 | March Rain | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/March-Rain.cpp) |
-| 53 | Magic Powder | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Magic-Powder.cpp) |
-| 54 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
+| 48 | Three Base Stations | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Three-Base-Stations.cpp) |
+| 49 | Interesting drink | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Interesting-drink.cpp) |
+| 50 | Balanced Team | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Balanced-Team.cpp) |
+| 51 | Aggressive cows | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Aggressive-cows.cpp) |
+| 52 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
+| 53 | Kefa and Company | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Kefa-and-Company.cpp) |
+| 54 | March Rain | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/March-Rain.cpp) |
+| 55 | Magic Powder | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Magic-Powder.cpp) |
+| 56 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
