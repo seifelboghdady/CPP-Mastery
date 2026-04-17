@@ -5,9 +5,9 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Training Level 1** | 10 |
+| **Training Level 1** | 11 |
 | **Codeforces** | 50 |
-| **Total** | **60** |
+| **Total** | **61** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -58,10 +58,10 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 44 | Weird Function1 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
 | 45 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
 | 46 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
-| 47 | Mahmoud and a Triangle | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Mahmoud-and-a-Triangle.cpp) |
-| 48 | Really..! | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Really..%21.cpp) |
-| 49 | Life of a Flower | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Life-of-a-Flower.cpp) |
-| 50 | most similar word | Codeforces | `Codeforces` | [View Code](./Codeforces/most-similar-word.cpp) |
+| 47 | most similar word | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/most-similar-word.cpp) |
+| 48 | Mahmoud and a Triangle | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Mahmoud-and-a-Triangle.cpp) |
+| 49 | Really..! | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Really..%21.cpp) |
+| 50 | Life of a Flower | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Life-of-a-Flower.cpp) |
 | 51 | Three Base Stations | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Three-Base-Stations.cpp) |
 | 52 | Get k th pair | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Get-k-th-pair.cpp) |
 | 53 | Interesting drink | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Interesting-drink.cpp) |
@@ -72,3 +72,4 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 58 | March Rain | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/March-Rain.cpp) |
 | 59 | Magic Powder | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Magic-Powder.cpp) |
 | 60 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
+| 61 | Divisor Summation | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Divisor-Summation.cpp) |
