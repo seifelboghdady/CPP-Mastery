@@ -55,7 +55,7 @@ int cnt[n];
 int isPrime[n];
 
 vector<int>primes;
-void gen(){
+void seive(){
     for (int i = 2; i < n; i++) isPrime[i]=1;
     for (int i = 2; i < n; i++)
     {
@@ -96,8 +96,8 @@ int main() {
             // {
                 //     cout<<i<<" "<<isPrime[i]<<endl;
                 // }
-    gen();
-    for (int i = 0; i < 100; i++)
+    seive();
+    for (int i = 2; i < 100; i++)
     {
         cout<<primes[i]<<'\n';
     }
