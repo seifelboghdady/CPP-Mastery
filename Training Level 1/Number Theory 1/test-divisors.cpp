@@ -49,7 +49,25 @@ vector<int> prime_factorization_sqrt(int n){
     return ans;
     
 }
+const int n = 1e6;
+vector<int> divs[n];
+int cnt[n];
+int isPrime[n];
 
+vector<int>primes;
+void gen(){
+    for (int i = 2; i < n; i++) isPrime[i]=1;
+    for (int i = 2; i < n; i++)
+    {
+        if(isPrime[i]==1){
+            primes.push_back(i);
+            for (int j = i*i; j < n; j+=i)
+            {
+                isPrime[j]=0;
+            }
+        }
+    }
+}
 
 
 int main() {
@@ -64,14 +82,23 @@ int main() {
     // {
     //     cout<<i<<" "<< isprime(i)<<'\n';
     // }
-    int n; cin>>n;
     //vector<int> prime = prime_Factorization(n);
-    vector<int> prime = prime_factorization_sqrt(n);
-    set<int> distPrime;
-    for(auto d : prime){
-        distPrime.insert(d);
-    }
-    for(auto d : distPrime){
-        cout<<d<<'\n';
+    // vector<int> prime = prime_factorization_sqrt(n);
+    // set<int> distPrime;
+    // for(auto d : prime){
+        //     distPrime.insert(d);
+        // }
+        // for(auto d : distPrime){
+            //     cout<<d<<'\n';
+            // }
+            // int x; cin>>x;
+            // for (int i=1; i<=x;i++ )
+            // {
+                //     cout<<i<<" "<<isPrime[i]<<endl;
+                // }
+    gen();
+    for (int i = 0; i < 100; i++)
+    {
+        cout<<primes[i]<<'\n';
     }
 }
