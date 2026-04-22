@@ -5,9 +5,9 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Training Level 1** | 17 |
+| **Training Level 1** | 18 |
 | **Codeforces** | 50 |
-| **Total** | **67** |
+| **Total** | **68** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -77,5 +77,6 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 63 | Noldbach problem | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Noldbach-problem.cpp) |
 | 64 | test divisors | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/test-divisors.cpp) |
 | 65 | Almost Prime | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Almost-Prime.cpp) |
-| 66 | Divisor Summation | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Divisor-Summation.cpp) |
-| 67 | Prime Factorization | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Prime-Factorization.cpp) |
+| 66 | Printing some primes | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Printing-some-primes.cpp) |
+| 67 | Divisor Summation | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Divisor-Summation.cpp) |
+| 68 | Prime Factorization | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Prime-Factorization.cpp) |
