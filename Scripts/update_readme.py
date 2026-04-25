@@ -9,7 +9,7 @@ PLATFORM_COLORS = {
     "Codeforces": "orange",
     "LeetCode": "yellow",
     "HackerRank": "green",
-    "AtCoder": "red",
+    "Vjadge": "red",
     "General": "blue"
 }
 
@@ -78,10 +78,10 @@ def generate_readme():
         color = PLATFORM_COLORS.get(cat, "orange") # لو ملقاش المنصة بيدي برتقالي
         # عملنا quote لاسم الكاتيجوري عشان المسافات
         safe_cat = urllib.parse.quote(cat)
-        badge_url = f"https://img.shields.io/badge/{safe_cat}-{count}_Solved-{color}?style=for-the-badge&logo=github"
-        content += f"![{cat}]({badge_url}) "
+        badge_url = f"https://img.shields.io/badge/{safe_cat}-{count}_Solved-{color}?style=for-the-badge&logo=codeforces"
+        content += f"![{cat}]({badge_url}) \n\n"
     # قسم الإحصائيات
-    content += "## 📊 Statistics\n"
+    content += "### 📊 Statistics\n"
     content += "| Platform | Solved |\n|--- | ---|\n"
     for cat, count in stats.items():
         content += f"| **{cat}** | {count} |\n"
