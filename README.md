@@ -5,9 +5,9 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Training Level 1** | 23 |
+| **Training Level 1** | 24 |
 | **Codeforces** | 52 |
-| **Total** | **75** |
+| **Total** | **76** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -83,7 +83,8 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 69 | Printing some primes | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Printing-some-primes.cpp) |
 | 70 | Divisor Summation | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Divisor-Summation.cpp) |
 | 71 | Prime Factorization | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Prime-Factorization.cpp) |
-| 72 | Remainder Quest | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Remainder-Quest.cpp) |
-| 73 | Exponentiation | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Exponentiation.cpp) |
-| 74 | test setion | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/test-setion.cpp) |
-| 75 | Divisibility Problem | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Divisibility-Problem.cpp) |
+| 72 | GCD TWO NUMBERS | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/GCD-TWO-NUMBERS.cpp) |
+| 73 | Remainder Quest | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Remainder-Quest.cpp) |
+| 74 | Exponentiation | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Exponentiation.cpp) |
+| 75 | test setion | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/test-setion.cpp) |
+| 76 | Divisibility Problem | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Divisibility-Problem.cpp) |
