@@ -6,82 +6,84 @@ Welcome to my automated portfolio. This README is updated automatically.
 | Platform | Solved |
 |--- | ---|
 | **Training Level 1** | 23 |
-| **Codeforces** | 50 |
-| **Total** | **73** |
+| **Codeforces** | 52 |
+| **Total** | **75** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
 |---|--------------|----------|-------|----------|
-| 1 | Sum Range | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-Range.cpp) |
-| 2 | Triple | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Triple.cpp) |
-| 3 | Max Books | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-Books.cpp) |
-| 4 | Stupid Sensors | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Stupid-Sensors.cpp) |
-| 5 | max box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/max-box.cpp) |
-| 6 | Updates array | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Updates-array.cpp) |
-| 7 | Array Easy Version | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Array-Easy-Version.cpp) |
-| 8 | Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Fence.cpp) |
-| 9 | Count | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Count.cpp) |
-| 10 | Max 2D Box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-2D-Box.cpp) |
-| 11 | Sum pointer | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-pointer.cpp) |
-| 12 | Flower City Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Flower-City-Fence.cpp) |
-| 13 | Favorite Sequence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Favorite-Sequence.cpp) |
-| 14 | Restaurant Customers | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Restaurant-Customers.cpp) |
-| 15 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
-| 16 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
-| 17 | Potions (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Potions-%28Hard-Version%29.cpp) |
-| 18 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
-| 19 | Prepend and Append | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Prepend-and-Append.cpp) |
-| 20 | Kefa and First Steps | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Kefa-and-First-Steps.cpp) |
-| 21 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
-| 22 | Meximization | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Meximization.cpp) |
-| 23 | Deque Easy version | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Deque-Easy-version.cpp) |
-| 24 | Powering the Hero (hard version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Powering-the-Hero-%28hard-version%29.cpp) |
-| 25 | Table Tennis | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Table-Tennis.cpp) |
-| 26 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
-| 27 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
-| 28 | Case of the Zeros and Ones | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Case-of-the-Zeros-and-Ones.cpp) |
-| 29 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence.cpp) |
-| 30 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
-| 31 | Game with string | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Game-with-string.cpp) |
-| 32 | Queue | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue.cpp) |
-| 33 | Bad Prices | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Bad-Prices.cpp) |
-| 34 | I Can Guess the Data Structure! | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/I-Can-Guess-the-Data-Structure%21.cpp) |
-| 35 | Alternating Current | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Alternating-Current.cpp) |
-| 36 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
-| 37 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
-| 38 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
-| 39 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
-| 40 | Sort Rectangles | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Sort-Rectangles.cpp) |
-| 41 | Vlad and theBest of Five | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Vlad-and-theBest-of-Five.cpp) |
-| 42 | Weird Function2 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function2.cpp) |
-| 43 | 3d | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/3d.cpp) |
-| 44 | Weird Function1 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
-| 45 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
-| 46 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
-| 47 | most similar word | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/most-similar-word.cpp) |
-| 48 | Mahmoud and a Triangle | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Mahmoud-and-a-Triangle.cpp) |
-| 49 | Really..! | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Really..%21.cpp) |
-| 50 | Life of a Flower | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Life-of-a-Flower.cpp) |
-| 51 | Three Base Stations | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Three-Base-Stations.cpp) |
-| 52 | Get k th pair | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Get-k-th-pair.cpp) |
-| 53 | Interesting drink | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Interesting-drink.cpp) |
-| 54 | Balanced Team | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Balanced-Team.cpp) |
-| 55 | Aggressive cows | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Aggressive-cows.cpp) |
-| 56 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
-| 57 | Kefa and Company | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Kefa-and-Company.cpp) |
-| 58 | March Rain | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/March-Rain.cpp) |
-| 59 | Magic Powder | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Magic-Powder.cpp) |
-| 60 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
-| 61 | Psycho | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Psycho.cpp) |
-| 62 | Project Euler | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Project-Euler.cpp) |
-| 63 | Noldbach problem | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Noldbach-problem.cpp) |
-| 64 | Odd Divisor | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Odd-Divisor.cpp) |
-| 65 | test divisors | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/test-divisors.cpp) |
-| 66 | Almost Prime | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Almost-Prime.cpp) |
-| 67 | Printing some primes | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Printing-some-primes.cpp) |
-| 68 | Divisor Summation | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Divisor-Summation.cpp) |
-| 69 | Prime Factorization | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Prime-Factorization.cpp) |
-| 70 | Remainder Quest | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Remainder-Quest.cpp) |
-| 71 | Exponentiation | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Exponentiation.cpp) |
-| 72 | test setion | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/test-setion.cpp) |
-| 73 | Divisibility Problem | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Divisibility-Problem.cpp) |
+| 1 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
+| 2 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
+| 3 | Sum Range | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-Range.cpp) |
+| 4 | Triple | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Triple.cpp) |
+| 5 | Max Books | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-Books.cpp) |
+| 6 | Stupid Sensors | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Stupid-Sensors.cpp) |
+| 7 | max box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/max-box.cpp) |
+| 8 | Updates array | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Updates-array.cpp) |
+| 9 | Array Easy Version | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Array-Easy-Version.cpp) |
+| 10 | Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Fence.cpp) |
+| 11 | Count | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Count.cpp) |
+| 12 | Max 2D Box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-2D-Box.cpp) |
+| 13 | Sum pointer | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-pointer.cpp) |
+| 14 | Flower City Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Flower-City-Fence.cpp) |
+| 15 | Favorite Sequence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Favorite-Sequence.cpp) |
+| 16 | Restaurant Customers | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Restaurant-Customers.cpp) |
+| 17 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
+| 18 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
+| 19 | Potions (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Potions-%28Hard-Version%29.cpp) |
+| 20 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
+| 21 | Prepend and Append | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Prepend-and-Append.cpp) |
+| 22 | Kefa and First Steps | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Kefa-and-First-Steps.cpp) |
+| 23 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
+| 24 | Meximization | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Meximization.cpp) |
+| 25 | Deque Easy version | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Deque-Easy-version.cpp) |
+| 26 | Powering the Hero (hard version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Powering-the-Hero-%28hard-version%29.cpp) |
+| 27 | Table Tennis | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Table-Tennis.cpp) |
+| 28 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
+| 29 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
+| 30 | Case of the Zeros and Ones | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Case-of-the-Zeros-and-Ones.cpp) |
+| 31 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence.cpp) |
+| 32 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
+| 33 | Game with string | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Game-with-string.cpp) |
+| 34 | Queue | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue.cpp) |
+| 35 | Bad Prices | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Bad-Prices.cpp) |
+| 36 | I Can Guess the Data Structure! | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/I-Can-Guess-the-Data-Structure%21.cpp) |
+| 37 | Alternating Current | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Alternating-Current.cpp) |
+| 38 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
+| 39 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
+| 40 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
+| 41 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
+| 42 | Sort Rectangles | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Sort-Rectangles.cpp) |
+| 43 | Vlad and theBest of Five | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Vlad-and-theBest-of-Five.cpp) |
+| 44 | Weird Function2 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function2.cpp) |
+| 45 | 3d | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/3d.cpp) |
+| 46 | Weird Function1 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
+| 47 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
+| 48 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
+| 49 | most similar word | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/most-similar-word.cpp) |
+| 50 | Mahmoud and a Triangle | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Mahmoud-and-a-Triangle.cpp) |
+| 51 | Really..! | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Really..%21.cpp) |
+| 52 | Life of a Flower | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Life-of-a-Flower.cpp) |
+| 53 | Three Base Stations | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Three-Base-Stations.cpp) |
+| 54 | Get k th pair | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Get-k-th-pair.cpp) |
+| 55 | Interesting drink | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Interesting-drink.cpp) |
+| 56 | Balanced Team | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Balanced-Team.cpp) |
+| 57 | Aggressive cows | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Aggressive-cows.cpp) |
+| 58 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
+| 59 | Kefa and Company | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Kefa-and-Company.cpp) |
+| 60 | March Rain | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/March-Rain.cpp) |
+| 61 | Magic Powder | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Magic-Powder.cpp) |
+| 62 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
+| 63 | Psycho | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Psycho.cpp) |
+| 64 | Project Euler | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Project-Euler.cpp) |
+| 65 | Noldbach problem | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Noldbach-problem.cpp) |
+| 66 | Odd Divisor | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Odd-Divisor.cpp) |
+| 67 | test divisors | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/test-divisors.cpp) |
+| 68 | Almost Prime | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Almost-Prime.cpp) |
+| 69 | Printing some primes | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Printing-some-primes.cpp) |
+| 70 | Divisor Summation | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Divisor-Summation.cpp) |
+| 71 | Prime Factorization | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Prime-Factorization.cpp) |
+| 72 | Remainder Quest | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Remainder-Quest.cpp) |
+| 73 | Exponentiation | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Exponentiation.cpp) |
+| 74 | test setion | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/test-setion.cpp) |
+| 75 | Divisibility Problem | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Divisibility-Problem.cpp) |
