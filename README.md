@@ -5,9 +5,9 @@ Welcome to my automated portfolio. This README is updated automatically.
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Training Level 1** | 19 |
+| **Training Level 1** | 21 |
 | **Codeforces** | 50 |
-| **Total** | **69** |
+| **Total** | **71** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -81,3 +81,5 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 67 | Printing some primes | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Printing-some-primes.cpp) |
 | 68 | Divisor Summation | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Divisor-Summation.cpp) |
 | 69 | Prime Factorization | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Prime-Factorization.cpp) |
+| 70 | Remainder Quest | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Remainder-Quest.cpp) |
+| 71 | test setion | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/test-setion.cpp) |
