@@ -2,12 +2,20 @@
 
 Welcome to my automated portfolio. This README is updated automatically.
 
+## 📊 Activity Dashboard
+![Platform Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Training%20Level%201%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B25%2C%2052%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Platform%20Distribution%22%7D%7D%7D)
+
+### 🏆 Stats Summary
+![Training Level 1](https://img.shields.io/badge/Training Level 1-25_Solved-lightgrey?style=for-the-badge&logo=github) ![Codeforces](https://img.shields.io/badge/Codeforces-52_Solved-orange?style=for-the-badge&logo=github) 
+
+**Total Problems Solved:** `77` 🔥
+
 ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Training Level 1** | 24 |
+| **Training Level 1** | 25 |
 | **Codeforces** | 52 |
-| **Total** | **76** |
+| **Total** | **77** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -85,6 +93,7 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 71 | Prime Factorization | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Prime-Factorization.cpp) |
 | 72 | GCD TWO NUMBERS | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/GCD-TWO-NUMBERS.cpp) |
 | 73 | Remainder Quest | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Remainder-Quest.cpp) |
-| 74 | Exponentiation | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Exponentiation.cpp) |
-| 75 | test setion | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/test-setion.cpp) |
-| 76 | Divisibility Problem | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Divisibility-Problem.cpp) |
+| 74 | Maximum GCD | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Maximum-GCD.cpp) |
+| 75 | Exponentiation | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Exponentiation.cpp) |
+| 76 | test setion | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/test-setion.cpp) |
+| 77 | Divisibility Problem | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Divisibility-Problem.cpp) |
