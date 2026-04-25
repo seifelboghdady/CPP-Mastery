@@ -1,8 +1,17 @@
 import os
 import urllib.parse
+import json
 
 EXCLUDE_DIRS = {'.git', '.github', 'Scripts'}
 CPP_EXTENSION = '.cpp'
+
+PLATFORM_COLORS = {
+    "Codeforces": "orange",
+    "LeetCode": "yellow",
+    "HackerRank": "green",
+    "AtCoder": "red",
+    "General": "blue"
+}
 
 def generate_readme():
     content = "# 🚀 Problem Solving Journey\n\n"
@@ -42,6 +51,34 @@ def generate_readme():
                 
                 # الإحصائيات بناءً على المنصة الأساسية
                 stats[category1] = stats.get(category1, 0) + 1
+
+    if stats:
+        labels = list(stats.keys())
+        values = list(stats.values())
+        # إعداد بيانات التشارت
+        chart_config = {
+            "type": "pie",
+            "data": {
+                "labels": labels,
+                "datasets": [{"data": values}]
+            },
+            "options": {
+                "title": {"display": True, "text": "Platform Distribution"}
+            }
+        }
+        encoded_config = urllib.parse.quote(json.dumps(chart_config))
+        chart_url = f"https://quickchart.io/chart?c={encoded_config}"
+        content += "## 📊 Activity Dashboard\n"
+        content += f"![Platform Chart]({chart_url})\n\n"
+        
+    # --- 2. قسم الإحصائيات مع الـ Badges ---
+    content += "### 🏆 Stats Summary\n"
+    for cat, count in stats.items():
+        color = PLATFORM_COLORS.get(cat, "lightgrey")
+        badge_url = f"https://img.shields.io/badge/{cat}-{count}_Solved-{color}?style=for-the-badge&logo=github"
+        content += f"![{cat}]({badge_url}) "
+    
+    content += f"\n\n**Total Problems Solved:** `{len(problems_list)}` 🔥\n\n"
 
     # قسم الإحصائيات
     content += "## 📊 Statistics\n"
