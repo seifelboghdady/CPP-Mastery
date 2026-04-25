@@ -3,17 +3,13 @@
 Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Activity Dashboard
-![Platform Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Training%20Level%201%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B25%2C%2052%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Platform%20Distribution%22%7D%7D%7D)
+<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Vjadge%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B25%2C%2052%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
 
 ### 🏆 Stats Summary
-![Training Level 1](https://img.shields.io/badge/Training Level 1-25_Solved-lightgrey?style=for-the-badge&logo=github) ![Codeforces](https://img.shields.io/badge/Codeforces-52_Solved-orange?style=for-the-badge&logo=github) 
-
-**Total Problems Solved:** `77` 🔥
-
-## 📊 Statistics
+![Vjadge](https://img.shields.io/badge/Vjadge-25_Solved-orange?style=for-the-badge&logo=github) ![Codeforces](https://img.shields.io/badge/Codeforces-52_Solved-orange?style=for-the-badge&logo=github) ## 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Training Level 1** | 25 |
+| **Vjadge** | 25 |
 | **Codeforces** | 52 |
 | **Total** | **77** |
 
@@ -72,28 +68,28 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 50 | Mahmoud and a Triangle | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Mahmoud-and-a-Triangle.cpp) |
 | 51 | Really..! | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Really..%21.cpp) |
 | 52 | Life of a Flower | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Life-of-a-Flower.cpp) |
-| 53 | Three Base Stations | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Three-Base-Stations.cpp) |
-| 54 | Get k th pair | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Get-k-th-pair.cpp) |
-| 55 | Interesting drink | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Interesting-drink.cpp) |
-| 56 | Balanced Team | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Balanced-Team.cpp) |
-| 57 | Aggressive cows | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Aggressive-cows.cpp) |
-| 58 | Factory Machines | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Factory-Machines.cpp) |
-| 59 | Kefa and Company | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Kefa-and-Company.cpp) |
-| 60 | March Rain | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/March-Rain.cpp) |
-| 61 | Magic Powder | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Magic-Powder.cpp) |
-| 62 | Worms | Training Level 1 | `Binary Search` | [View Code](./Training%20Level%201/Binary%20Search/Worms.cpp) |
-| 63 | Psycho | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Psycho.cpp) |
-| 64 | Project Euler | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Project-Euler.cpp) |
-| 65 | Noldbach problem | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Noldbach-problem.cpp) |
-| 66 | Odd Divisor | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Odd-Divisor.cpp) |
-| 67 | test divisors | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/test-divisors.cpp) |
-| 68 | Almost Prime | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Almost-Prime.cpp) |
-| 69 | Printing some primes | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Printing-some-primes.cpp) |
-| 70 | Divisor Summation | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Divisor-Summation.cpp) |
-| 71 | Prime Factorization | Training Level 1 | `Number Theory 1` | [View Code](./Training%20Level%201/Number%20Theory%201/Prime-Factorization.cpp) |
-| 72 | GCD TWO NUMBERS | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/GCD-TWO-NUMBERS.cpp) |
-| 73 | Remainder Quest | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Remainder-Quest.cpp) |
-| 74 | Maximum GCD | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Maximum-GCD.cpp) |
-| 75 | Exponentiation | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Exponentiation.cpp) |
-| 76 | test setion | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/test-setion.cpp) |
-| 77 | Divisibility Problem | Training Level 1 | `Number Theory 2` | [View Code](./Training%20Level%201/Number%20Theory%202/Divisibility-Problem.cpp) |
+| 53 | Three Base Stations | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Three-Base-Stations.cpp) |
+| 54 | Get k th pair | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Get-k-th-pair.cpp) |
+| 55 | Interesting drink | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Interesting-drink.cpp) |
+| 56 | Balanced Team | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Balanced-Team.cpp) |
+| 57 | Aggressive cows | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Aggressive-cows.cpp) |
+| 58 | Factory Machines | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Factory-Machines.cpp) |
+| 59 | Kefa and Company | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Kefa-and-Company.cpp) |
+| 60 | March Rain | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/March-Rain.cpp) |
+| 61 | Magic Powder | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Magic-Powder.cpp) |
+| 62 | Worms | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Worms.cpp) |
+| 63 | Psycho | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Psycho.cpp) |
+| 64 | Project Euler | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Project-Euler.cpp) |
+| 65 | Noldbach problem | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Noldbach-problem.cpp) |
+| 66 | Odd Divisor | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Odd-Divisor.cpp) |
+| 67 | test divisors | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/test-divisors.cpp) |
+| 68 | Almost Prime | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Almost-Prime.cpp) |
+| 69 | Printing some primes | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Printing-some-primes.cpp) |
+| 70 | Divisor Summation | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Divisor-Summation.cpp) |
+| 71 | Prime Factorization | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Prime-Factorization.cpp) |
+| 72 | GCD TWO NUMBERS | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/GCD-TWO-NUMBERS.cpp) |
+| 73 | Remainder Quest | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Remainder-Quest.cpp) |
+| 74 | Maximum GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Maximum-GCD.cpp) |
+| 75 | Exponentiation | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Exponentiation.cpp) |
+| 76 | test setion | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/test-setion.cpp) |
+| 77 | Divisibility Problem | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Divisibility-Problem.cpp) |
