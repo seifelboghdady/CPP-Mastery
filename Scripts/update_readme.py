@@ -55,7 +55,6 @@ def generate_readme():
     if stats:
         labels = list(stats.keys())
         values = list(stats.values())
-        # إعداد بيانات التشارت
         chart_config = {
             "type": "pie",
             "data": {
@@ -63,23 +62,24 @@ def generate_readme():
                 "datasets": [{"data": values}]
             },
             "options": {
-                "title": {"display": True, "text": "Platform Distribution"}
+                "legend": {"position": "bottom"} # عشان نوفر مساحة بالعرض
             }
         }
         encoded_config = urllib.parse.quote(json.dumps(chart_config))
-        chart_url = f"https://quickchart.io/chart?c={encoded_config}"
+        # ضفنا &w=300&h=300 عشان نصغر الحجم
+        chart_url = f"https://quickchart.io/chart?c={encoded_config}&w=300&h=300"
+        
         content += "## 📊 Activity Dashboard\n"
-        content += f"![Platform Chart]({chart_url})\n\n"
+        content += f"<img src='{chart_url}' width='300' align='right' />\n\n"
         
     # --- 2. قسم الإحصائيات مع الـ Badges ---
     content += "### 🏆 Stats Summary\n"
     for cat, count in stats.items():
-        color = PLATFORM_COLORS.get(cat, "lightgrey")
-        badge_url = f"https://img.shields.io/badge/{cat}-{count}_Solved-{color}?style=for-the-badge&logo=github"
+        color = PLATFORM_COLORS.get(cat, "orange") # لو ملقاش المنصة بيدي برتقالي
+        # عملنا quote لاسم الكاتيجوري عشان المسافات
+        safe_cat = urllib.parse.quote(cat)
+        badge_url = f"https://img.shields.io/badge/{safe_cat}-{count}_Solved-{color}?style=for-the-badge&logo=github"
         content += f"![{cat}]({badge_url}) "
-    
-    content += f"\n\n**Total Problems Solved:** `{len(problems_list)}` 🔥\n\n"
-
     # قسم الإحصائيات
     content += "## 📊 Statistics\n"
     content += "| Platform | Solved |\n|--- | ---|\n"
