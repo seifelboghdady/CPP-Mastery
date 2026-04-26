@@ -3,19 +3,19 @@
 Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Activity Dashboard
-<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Vjadge%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B27%2C%2052%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
+<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Vjadge%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B28%2C%2052%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
 
 ### 🏆 Stats Summary
-![Vjadge](https://img.shields.io/badge/Vjadge-27_Solved-red?style=for-the-badge&logo=codeforces) 
+![Vjadge](https://img.shields.io/badge/Vjadge-28_Solved-red?style=for-the-badge&logo=codeforces) 
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-52_Solved-orange?style=for-the-badge&logo=codeforces) 
 
 ### 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Vjadge** | 27 |
+| **Vjadge** | 28 |
 | **Codeforces** | 52 |
-| **Total** | **79** |
+| **Total** | **80** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -93,9 +93,10 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 71 | Prime Factorization | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Prime-Factorization.cpp) |
 | 72 | GCD TWO NUMBERS | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/GCD-TWO-NUMBERS.cpp) |
 | 73 | Remainder Quest | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Remainder-Quest.cpp) |
-| 74 | DB GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/DB-GCD.cpp) |
-| 75 | Maximum GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Maximum-GCD.cpp) |
-| 76 | Exponentiation | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Exponentiation.cpp) |
-| 77 | test setion | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/test-setion.cpp) |
-| 78 | Divisibility Problem | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Divisibility-Problem.cpp) |
-| 79 | Skip | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Skip.cpp) |
+| 74 | Modified GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Modified-GCD.cpp) |
+| 75 | DB GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/DB-GCD.cpp) |
+| 76 | Maximum GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Maximum-GCD.cpp) |
+| 77 | Exponentiation | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Exponentiation.cpp) |
+| 78 | test setion | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/test-setion.cpp) |
+| 79 | Divisibility Problem | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Divisibility-Problem.cpp) |
+| 80 | Skip | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Skip.cpp) |
