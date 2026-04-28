@@ -3,19 +3,19 @@
 Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Activity Dashboard
-<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Vjadge%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B31%2C%2052%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
+<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Vjadge%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B32%2C%2052%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
 
 ### 🏆 Stats Summary
-![Vjadge](https://img.shields.io/badge/Vjadge-31_Solved-red?style=for-the-badge&logo=codeforces) 
+![Vjadge](https://img.shields.io/badge/Vjadge-32_Solved-red?style=for-the-badge&logo=codeforces) 
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-52_Solved-orange?style=for-the-badge&logo=codeforces) 
 
 ### 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Vjadge** | 31 |
+| **Vjadge** | 32 |
 | **Codeforces** | 52 |
-| **Total** | **83** |
+| **Total** | **84** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -93,13 +93,14 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 71 | Prime Factorization | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Prime-Factorization.cpp) |
 | 72 | Fadi and LCM | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Fadi-and-LCM.cpp) |
 | 73 | GCD TWO NUMBERS | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/GCD-TWO-NUMBERS.cpp) |
-| 74 | Remainder Quest | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Remainder-Quest.cpp) |
-| 75 | Coprime | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Coprime.cpp) |
-| 76 | Modified GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Modified-GCD.cpp) |
-| 77 | DB GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/DB-GCD.cpp) |
-| 78 | Maximum GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Maximum-GCD.cpp) |
-| 79 | Exponentiation | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Exponentiation.cpp) |
-| 80 | test setion | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/test-setion.cpp) |
-| 81 | Divisibility Problem | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Divisibility-Problem.cpp) |
-| 82 | Skip | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Skip.cpp) |
-| 83 | Row GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Row-GCD.cpp) |
+| 74 | Complicated GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Complicated-GCD.cpp) |
+| 75 | Remainder Quest | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Remainder-Quest.cpp) |
+| 76 | Coprime | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Coprime.cpp) |
+| 77 | Modified GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Modified-GCD.cpp) |
+| 78 | DB GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/DB-GCD.cpp) |
+| 79 | Maximum GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Maximum-GCD.cpp) |
+| 80 | Exponentiation | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Exponentiation.cpp) |
+| 81 | test setion | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/test-setion.cpp) |
+| 82 | Divisibility Problem | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Divisibility-Problem.cpp) |
+| 83 | Skip | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Skip.cpp) |
+| 84 | Row GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Row-GCD.cpp) |
