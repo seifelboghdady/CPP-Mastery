@@ -2,14 +2,17 @@
 #define int long long
 using namespace std;
 
-int gcd_optimal(int a, int b){
-    if(a>b) swap(a,b);
-    while (a)
-    {
-        b %= a;
-        swap(a,b);
+/* Primility Check - prime factorization - divisors O(sqrt(N)) */
+ 
+vector<int> getDivisors(int n){
+    vector<int> divs;
+    for(int d = 1; d * d <= n; ++d){
+        if(n % d == 0) {
+            divs.push_back(d);
+            if(d != n / d) divs.push_back(n / d);
+        }
     }
-    return b;
+    return divs;
 }
 
 signed main() {
@@ -17,25 +20,15 @@ signed main() {
     cin.tie(NULL);
 
     int a,b; cin>>a>>b;
-    int q; cin>>q;
-    const int g= gcd_optimal(a,b);
-    while (q--)
+    vector<int> divs = getDivisors(gcd(a,b));
+    int t; cin>>t;
+    while (t--)
     {
-        int low, higth; cin>>low>>higth;
-        int ans =-1;
-        for (int i = 1; i*i <= g; i++)
-        {
-            int d=0, d2=0;
-            if(g%i==0){
-                d= i;
-                d2= g/i;
-            }
-
-            if (d>=low && d<=higth){
-                ans  = max(ans,d);
-            }
-            if (d2>=low && d2<=higth){
-                ans = max(ans, d2);
+        int l, r; cin>>l>>r;
+        int ans = -1;
+        for (auto x: divs){
+            if(x>=l && x<=r){
+                ans = max(ans, x);
             }
         }
         cout<<ans<<endl;
