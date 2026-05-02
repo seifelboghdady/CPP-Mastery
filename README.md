@@ -3,19 +3,19 @@
 Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Activity Dashboard
-<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Vjadge%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B36%2C%2052%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
+<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Vjadge%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B38%2C%2052%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
 
 ### 🏆 Stats Summary
-![Vjadge](https://img.shields.io/badge/Vjadge-36_Solved-red?style=for-the-badge&logo=codeforces) 
+![Vjadge](https://img.shields.io/badge/Vjadge-38_Solved-red?style=for-the-badge&logo=codeforces) 
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-52_Solved-orange?style=for-the-badge&logo=codeforces) 
 
 ### 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Vjadge** | 36 |
+| **Vjadge** | 38 |
 | **Codeforces** | 52 |
-| **Total** | **88** |
+| **Total** | **90** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -91,20 +91,22 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 69 | Printing some primes | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Printing-some-primes.cpp) |
 | 70 | Divisor Summation | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Divisor-Summation.cpp) |
 | 71 | Prime Factorization | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Prime-Factorization.cpp) |
-| 72 | Hello Recursion | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Hello-Recursion.cpp) |
-| 73 | Fadi and LCM | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Fadi-and-LCM.cpp) |
-| 74 | GCD TWO NUMBERS | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/GCD-TWO-NUMBERS.cpp) |
-| 75 | Complicated GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Complicated-GCD.cpp) |
-| 76 | Remainder Quest | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Remainder-Quest.cpp) |
-| 77 | Coprime | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Coprime.cpp) |
-| 78 | Modified GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Modified-GCD.cpp) |
-| 79 | DB GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/DB-GCD.cpp) |
-| 80 | Maximum GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Maximum-GCD.cpp) |
-| 81 | String LCM | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/String-LCM.cpp) |
-| 82 | Exponentiation | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Exponentiation.cpp) |
-| 83 | Exponentiation II | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Exponentiation-II.cpp) |
-| 84 | test setion | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/test-setion.cpp) |
-| 85 | Divisibility Problem | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Divisibility-Problem.cpp) |
-| 86 | Skip | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Skip.cpp) |
-| 87 | Row GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Row-GCD.cpp) |
-| 88 | Plus Minus Permutation | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Plus-Minus-Permutation.cpp) |
+| 72 | Fibonacci Numbers | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Fibonacci-Numbers.cpp) |
+| 73 | Hello Recursion | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Hello-Recursion.cpp) |
+| 74 | Recursive Function | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Recursive-Function.cpp) |
+| 75 | Fadi and LCM | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Fadi-and-LCM.cpp) |
+| 76 | GCD TWO NUMBERS | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/GCD-TWO-NUMBERS.cpp) |
+| 77 | Complicated GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Complicated-GCD.cpp) |
+| 78 | Remainder Quest | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Remainder-Quest.cpp) |
+| 79 | Coprime | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Coprime.cpp) |
+| 80 | Modified GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Modified-GCD.cpp) |
+| 81 | DB GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/DB-GCD.cpp) |
+| 82 | Maximum GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Maximum-GCD.cpp) |
+| 83 | String LCM | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/String-LCM.cpp) |
+| 84 | Exponentiation | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Exponentiation.cpp) |
+| 85 | Exponentiation II | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Exponentiation-II.cpp) |
+| 86 | test setion | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/test-setion.cpp) |
+| 87 | Divisibility Problem | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Divisibility-Problem.cpp) |
+| 88 | Skip | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Skip.cpp) |
+| 89 | Row GCD | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Row-GCD.cpp) |
+| 90 | Plus Minus Permutation | Vjadge | `Number Theory 2` | [View Code](./Vjadge/Number%20Theory%202/Plus-Minus-Permutation.cpp) |
