@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    int n; cin>>n;
+    set<char> f;
+    for (int i = 0; i < n; i++)
+    {
+        string color; cin>>color;
+        f.insert(color[0]);
+    }
+    cout<<f.size();
+
+}
