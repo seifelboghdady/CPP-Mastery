@@ -1,8 +1,2 @@
-1
-14
-2
-the number is : 4
-count ones : 6
-this from built in func : 3
-Is power of two : 1
-100
+0
+4
