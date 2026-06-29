@@ -11,15 +11,17 @@ int main() {
     {
         cin>>a[i];
     }
+    vector<int> pref(n+1);
+    pref[0]=0;
+    for (int i = 1; i <= n; i++)
+    {
+        pref[i] = a[i-1]^pref[i-1];
+    }
+    
     while(q--)
     {
         int l,r; cin>>l>>r;
-        int ans =0;
-        l--; r--;
-        for (int i = l; i <= r; i++)
-        {
-            ans^=a[i];
-        }
+        int ans = pref[r]^pref[l-1];
         cout<<ans<<endl;
     }
     
