@@ -3,19 +3,19 @@
 Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Activity Dashboard
-<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Codeforces%22%2C%20%22Vjadge%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B62%2C%2072%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
+<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Codeforces%22%2C%20%22Vjadge%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B64%2C%2072%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
 
 ### 🏆 Stats Summary
-![Codeforces](https://img.shields.io/badge/Codeforces-62_Solved-orange?style=for-the-badge&logo=codeforces) 
+![Codeforces](https://img.shields.io/badge/Codeforces-64_Solved-orange?style=for-the-badge&logo=codeforces) 
 
 ![Vjadge](https://img.shields.io/badge/Vjadge-72_Solved-red?style=for-the-badge&logo=codeforces) 
 
 ### 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Codeforces** | 62 |
+| **Codeforces** | 64 |
 | **Vjadge** | 72 |
-| **Total** | **134** |
+| **Total** | **136** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -126,31 +126,33 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 104 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
 | 105 | Anapalindrome | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Anapalindrome.cpp) |
 | 106 | MeX is not Max | Codeforces | `gem03` | [View Code](./Codeforces/gem03/MeX-is-not-Max.cpp) |
-| 107 | Zero is not an option! | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Zero-is-not-an-option%21.cpp) |
-| 108 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
-| 109 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
-| 110 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
-| 111 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
-| 112 | Just Not RU... | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Just-Not-RU....cpp) |
-| 113 | EZ | Codeforces | `gem01` | [View Code](./Codeforces/gem01/EZ.cpp) |
-| 114 | Great Contest | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Great-Contest.cpp) |
-| 115 | Not Afraid to Fall | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Not-Afraid-to-Fall.cpp) |
-| 116 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
-| 117 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
-| 118 | Just Do It 1 | Codeforces | `STLs2` | [View Code](./Codeforces/STLs2/Just-Do-It-1.cpp) |
-| 119 | color | Codeforces | `gem02` | [View Code](./Codeforces/gem02/color.cpp) |
-| 120 | Range Information | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Range-Information.cpp) |
-| 121 | Max 2D Box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-2D-Box.cpp) |
-| 122 | Count | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Count.cpp) |
-| 123 | Sum Range | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-Range.cpp) |
-| 124 | Favorite Sequence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Favorite-Sequence.cpp) |
-| 125 | Triple | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Triple.cpp) |
-| 126 | Stupid Sensors | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Stupid-Sensors.cpp) |
-| 127 | Flower City Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Flower-City-Fence.cpp) |
-| 128 | Max Books | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-Books.cpp) |
-| 129 | Updates array | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Updates-array.cpp) |
-| 130 | Array Easy Version | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Array-Easy-Version.cpp) |
-| 131 | max box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/max-box.cpp) |
-| 132 | Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Fence.cpp) |
-| 133 | Sum pointer | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-pointer.cpp) |
-| 134 | Restaurant Customers | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Restaurant-Customers.cpp) |
+| 107 | Treasures in the Interval | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Treasures-in-the-Interval.cpp) |
+| 108 | Zero is not an option! | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Zero-is-not-an-option%21.cpp) |
+| 109 | Decreasing Trees | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Decreasing-Trees.cpp) |
+| 110 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
+| 111 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
+| 112 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
+| 113 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
+| 114 | Just Not RU... | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Just-Not-RU....cpp) |
+| 115 | EZ | Codeforces | `gem01` | [View Code](./Codeforces/gem01/EZ.cpp) |
+| 116 | Great Contest | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Great-Contest.cpp) |
+| 117 | Not Afraid to Fall | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Not-Afraid-to-Fall.cpp) |
+| 118 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
+| 119 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
+| 120 | Just Do It 1 | Codeforces | `STLs2` | [View Code](./Codeforces/STLs2/Just-Do-It-1.cpp) |
+| 121 | color | Codeforces | `gem02` | [View Code](./Codeforces/gem02/color.cpp) |
+| 122 | Range Information | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Range-Information.cpp) |
+| 123 | Max 2D Box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-2D-Box.cpp) |
+| 124 | Count | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Count.cpp) |
+| 125 | Sum Range | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-Range.cpp) |
+| 126 | Favorite Sequence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Favorite-Sequence.cpp) |
+| 127 | Triple | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Triple.cpp) |
+| 128 | Stupid Sensors | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Stupid-Sensors.cpp) |
+| 129 | Flower City Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Flower-City-Fence.cpp) |
+| 130 | Max Books | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-Books.cpp) |
+| 131 | Updates array | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Updates-array.cpp) |
+| 132 | Array Easy Version | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Array-Easy-Version.cpp) |
+| 133 | max box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/max-box.cpp) |
+| 134 | Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Fence.cpp) |
+| 135 | Sum pointer | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-pointer.cpp) |
+| 136 | Restaurant Customers | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Restaurant-Customers.cpp) |
