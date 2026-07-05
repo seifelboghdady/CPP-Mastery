@@ -3,19 +3,19 @@
 Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Activity Dashboard
-<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Codeforces%22%2C%20%22Vjadge%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B66%2C%2074%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
+<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Codeforces%22%2C%20%22Vjadge%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B67%2C%2077%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
 
 ### 🏆 Stats Summary
-![Codeforces](https://img.shields.io/badge/Codeforces-66_Solved-orange?style=for-the-badge&logo=codeforces) 
+![Codeforces](https://img.shields.io/badge/Codeforces-67_Solved-orange?style=for-the-badge&logo=codeforces) 
 
-![Vjadge](https://img.shields.io/badge/Vjadge-74_Solved-red?style=for-the-badge&logo=codeforces) 
+![Vjadge](https://img.shields.io/badge/Vjadge-77_Solved-red?style=for-the-badge&logo=codeforces) 
 
 ### 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Codeforces** | 66 |
-| **Vjadge** | 74 |
-| **Total** | **140** |
+| **Codeforces** | 67 |
+| **Vjadge** | 77 |
+| **Total** | **144** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -48,115 +48,119 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 26 | New Year | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/New-Year.cpp) |
 | 27 | Bitwise Operators | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Bitwise-Operators.cpp) |
 | 28 | Maximizing XOR | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Maximizing-XOR.cpp) |
-| 29 | Is it a tree | Vjadge | `DFS` | [View Code](./Vjadge/DFS/Is-it-a-tree.cpp) |
-| 30 | Transportation | Vjadge | `DFS` | [View Code](./Vjadge/DFS/Transportation.cpp) |
-| 31 | Hello Recursion | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Hello-Recursion.cpp) |
-| 32 | Recursive Digit Sum | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Recursive-Digit-Sum.cpp) |
-| 33 | Eleven | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Eleven.cpp) |
-| 34 | Exponentiation | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Exponentiation.cpp) |
-| 35 | Remove It | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Remove-It.cpp) |
-| 36 | Fibonacci Numbers | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Fibonacci-Numbers.cpp) |
-| 37 | Magic 3 | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Magic-3.cpp) |
-| 38 | Orthogonality | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Orthogonality.cpp) |
-| 39 | Savings | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Savings.cpp) |
-| 40 | Truckloads | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Truckloads.cpp) |
-| 41 | Recursive Function | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Recursive-Function.cpp) |
-| 42 | Weird Algorithm | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Weird-Algorithm.cpp) |
-| 43 | Round Down | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Round-Down.cpp) |
-| 44 | uNrEaDaBlE | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/uNrEaDaBlE.cpp) |
-| 45 | Almost Prime | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Almost-Prime.cpp) |
-| 46 | Noldbach problem | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Noldbach-problem.cpp) |
-| 47 | Prime Factorization | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Prime-Factorization.cpp) |
-| 48 | Printing some primes | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Printing-some-primes.cpp) |
-| 49 | Psycho | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Psycho.cpp) |
-| 50 | Divisor Summation | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Divisor-Summation.cpp) |
-| 51 | Project Euler | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Project-Euler.cpp) |
-| 52 | Odd Divisor | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Odd-Divisor.cpp) |
-| 53 | test divisors | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/test-divisors.cpp) |
-| 54 | Building Roads. | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Building-Roads..cpp) |
-| 55 | Rumor | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Rumor.cpp) |
-| 56 | Counting Rooms | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Counting-Rooms.cpp) |
-| 57 | Counting Roads | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Counting-Roads.cpp) |
-| 58 | test | Vjadge | `Graph` | [View Code](./Vjadge/Graph/test.cpp) |
-| 59 | Friends | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Friends.cpp) |
-| 60 | isTree | Vjadge | `Graph` | [View Code](./Vjadge/Graph/isTree.cpp) |
-| 61 | Network Topology | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Network-Topology.cpp) |
-| 62 | test2 | Vjadge | `Graph` | [View Code](./Vjadge/Graph/test2.cpp) |
-| 63 | lesson | Vjadge | `BackTracking` | [View Code](./Vjadge/BackTracking/lesson.cpp) |
-| 64 | Interesting drink | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Interesting-drink.cpp) |
-| 65 | Magic Powder | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Magic-Powder.cpp) |
-| 66 | Factory Machines | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Factory-Machines.cpp) |
-| 67 | Nubian Market | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Nubian-Market.cpp) |
-| 68 | Worms | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Worms.cpp) |
-| 69 | Three Base Stations | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Three-Base-Stations.cpp) |
-| 70 | Kefa and Company | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Kefa-and-Company.cpp) |
-| 71 | Get k th pair | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Get-k-th-pair.cpp) |
-| 72 | Balanced Team | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Balanced-Team.cpp) |
-| 73 | Aggressive cows | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Aggressive-cows.cpp) |
-| 74 | March Rain | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/March-Rain.cpp) |
-| 75 | Weird Function1 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
-| 76 | 3d | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/3d.cpp) |
-| 77 | Weird Function2 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function2.cpp) |
-| 78 | most similar word | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/most-similar-word.cpp) |
-| 79 | Sort Rectangles | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Sort-Rectangles.cpp) |
-| 80 | Vlad and theBest of Five | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Vlad-and-theBest-of-Five.cpp) |
-| 81 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
-| 82 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
-| 83 | Life of a Flower | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Life-of-a-Flower.cpp) |
-| 84 | Mahmoud and a Triangle | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Mahmoud-and-a-Triangle.cpp) |
-| 85 | Really..! | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Really..%21.cpp) |
-| 86 | Alternating Current | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Alternating-Current.cpp) |
-| 87 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
-| 88 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
-| 89 | Game with string | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Game-with-string.cpp) |
-| 90 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
-| 91 | Deque Easy version | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Deque-Easy-version.cpp) |
-| 92 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
-| 93 | Table Tennis | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Table-Tennis.cpp) |
-| 94 | Bad Prices | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Bad-Prices.cpp) |
-| 95 | I Can Guess the Data Structure! | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/I-Can-Guess-the-Data-Structure%21.cpp) |
-| 96 | Queue | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue.cpp) |
-| 97 | Meximization | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Meximization.cpp) |
-| 98 | Case of the Zeros and Ones | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Case-of-the-Zeros-and-Ones.cpp) |
-| 99 | Potions (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Potions-%28Hard-Version%29.cpp) |
-| 100 | Kefa and First Steps | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Kefa-and-First-Steps.cpp) |
-| 101 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
-| 102 | Prepend and Append | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Prepend-and-Append.cpp) |
-| 103 | Powering the Hero (hard version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Powering-the-Hero-%28hard-version%29.cpp) |
-| 104 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence.cpp) |
-| 105 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
-| 106 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
-| 107 | Anapalindrome | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Anapalindrome.cpp) |
-| 108 | MeX is not Max | Codeforces | `gem03` | [View Code](./Codeforces/gem03/MeX-is-not-Max.cpp) |
-| 109 | Treasures in the Interval | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Treasures-in-the-Interval.cpp) |
-| 110 | Zero is not an option! | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Zero-is-not-an-option%21.cpp) |
-| 111 | Decreasing Trees | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Decreasing-Trees.cpp) |
-| 112 | Prime Dominion | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Prime-Dominion.cpp) |
-| 113 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
-| 114 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
-| 115 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
-| 116 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
-| 117 | Just Not RU... | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Just-Not-RU....cpp) |
-| 118 | EZ | Codeforces | `gem01` | [View Code](./Codeforces/gem01/EZ.cpp) |
-| 119 | Great Contest | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Great-Contest.cpp) |
-| 120 | Not Afraid to Fall | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Not-Afraid-to-Fall.cpp) |
-| 121 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
-| 122 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
-| 123 | Just Do It 1 | Codeforces | `STLs2` | [View Code](./Codeforces/STLs2/Just-Do-It-1.cpp) |
-| 124 | color | Codeforces | `gem02` | [View Code](./Codeforces/gem02/color.cpp) |
-| 125 | Forms of Forming Teams | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Forms-of-Forming-Teams.cpp) |
-| 126 | Range Information | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Range-Information.cpp) |
-| 127 | Max 2D Box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-2D-Box.cpp) |
-| 128 | Count | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Count.cpp) |
-| 129 | Sum Range | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-Range.cpp) |
-| 130 | Favorite Sequence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Favorite-Sequence.cpp) |
-| 131 | Triple | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Triple.cpp) |
-| 132 | Stupid Sensors | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Stupid-Sensors.cpp) |
-| 133 | Flower City Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Flower-City-Fence.cpp) |
-| 134 | Max Books | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-Books.cpp) |
-| 135 | Updates array | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Updates-array.cpp) |
-| 136 | Array Easy Version | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Array-Easy-Version.cpp) |
-| 137 | max box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/max-box.cpp) |
-| 138 | Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Fence.cpp) |
-| 139 | Sum pointer | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-pointer.cpp) |
-| 140 | Restaurant Customers | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Restaurant-Customers.cpp) |
+| 29 | Round Trip | Vjadge | `DFS` | [View Code](./Vjadge/DFS/Round-Trip.cpp) |
+| 30 | Counting Rooms | Vjadge | `DFS` | [View Code](./Vjadge/DFS/Counting-Rooms.cpp) |
+| 31 | Is it a tree | Vjadge | `DFS` | [View Code](./Vjadge/DFS/Is-it-a-tree.cpp) |
+| 32 | Transportation | Vjadge | `DFS` | [View Code](./Vjadge/DFS/Transportation.cpp) |
+| 33 | Building Teams | Vjadge | `DFS` | [View Code](./Vjadge/DFS/Building-Teams.cpp) |
+| 34 | Hello Recursion | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Hello-Recursion.cpp) |
+| 35 | Recursive Digit Sum | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Recursive-Digit-Sum.cpp) |
+| 36 | Eleven | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Eleven.cpp) |
+| 37 | Exponentiation | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Exponentiation.cpp) |
+| 38 | Remove It | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Remove-It.cpp) |
+| 39 | Fibonacci Numbers | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Fibonacci-Numbers.cpp) |
+| 40 | Magic 3 | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Magic-3.cpp) |
+| 41 | Orthogonality | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Orthogonality.cpp) |
+| 42 | Savings | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Savings.cpp) |
+| 43 | Truckloads | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Truckloads.cpp) |
+| 44 | Recursive Function | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Recursive-Function.cpp) |
+| 45 | Weird Algorithm | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Weird-Algorithm.cpp) |
+| 46 | Round Down | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/Round-Down.cpp) |
+| 47 | uNrEaDaBlE | Vjadge | `Recursion` | [View Code](./Vjadge/Recursion/uNrEaDaBlE.cpp) |
+| 48 | Almost Prime | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Almost-Prime.cpp) |
+| 49 | Noldbach problem | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Noldbach-problem.cpp) |
+| 50 | Prime Factorization | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Prime-Factorization.cpp) |
+| 51 | Printing some primes | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Printing-some-primes.cpp) |
+| 52 | Psycho | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Psycho.cpp) |
+| 53 | Divisor Summation | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Divisor-Summation.cpp) |
+| 54 | Project Euler | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Project-Euler.cpp) |
+| 55 | Odd Divisor | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/Odd-Divisor.cpp) |
+| 56 | test divisors | Vjadge | `Number Theory 1` | [View Code](./Vjadge/Number%20Theory%201/test-divisors.cpp) |
+| 57 | Building Roads. | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Building-Roads..cpp) |
+| 58 | Rumor | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Rumor.cpp) |
+| 59 | Counting Rooms | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Counting-Rooms.cpp) |
+| 60 | Counting Roads | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Counting-Roads.cpp) |
+| 61 | test | Vjadge | `Graph` | [View Code](./Vjadge/Graph/test.cpp) |
+| 62 | Friends | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Friends.cpp) |
+| 63 | isTree | Vjadge | `Graph` | [View Code](./Vjadge/Graph/isTree.cpp) |
+| 64 | Network Topology | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Network-Topology.cpp) |
+| 65 | test2 | Vjadge | `Graph` | [View Code](./Vjadge/Graph/test2.cpp) |
+| 66 | lesson | Vjadge | `BackTracking` | [View Code](./Vjadge/BackTracking/lesson.cpp) |
+| 67 | Interesting drink | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Interesting-drink.cpp) |
+| 68 | Magic Powder | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Magic-Powder.cpp) |
+| 69 | Factory Machines | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Factory-Machines.cpp) |
+| 70 | Nubian Market | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Nubian-Market.cpp) |
+| 71 | Worms | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Worms.cpp) |
+| 72 | Three Base Stations | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Three-Base-Stations.cpp) |
+| 73 | Kefa and Company | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Kefa-and-Company.cpp) |
+| 74 | Get k th pair | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Get-k-th-pair.cpp) |
+| 75 | Balanced Team | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Balanced-Team.cpp) |
+| 76 | Aggressive cows | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Aggressive-cows.cpp) |
+| 77 | March Rain | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/March-Rain.cpp) |
+| 78 | Weird Function1 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
+| 79 | 3d | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/3d.cpp) |
+| 80 | Weird Function2 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function2.cpp) |
+| 81 | most similar word | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/most-similar-word.cpp) |
+| 82 | Sort Rectangles | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Sort-Rectangles.cpp) |
+| 83 | Vlad and theBest of Five | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Vlad-and-theBest-of-Five.cpp) |
+| 84 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
+| 85 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
+| 86 | Life of a Flower | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Life-of-a-Flower.cpp) |
+| 87 | Mahmoud and a Triangle | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Mahmoud-and-a-Triangle.cpp) |
+| 88 | Really..! | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Really..%21.cpp) |
+| 89 | Alternating Current | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Alternating-Current.cpp) |
+| 90 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
+| 91 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
+| 92 | Game with string | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Game-with-string.cpp) |
+| 93 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
+| 94 | Deque Easy version | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Deque-Easy-version.cpp) |
+| 95 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
+| 96 | Table Tennis | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Table-Tennis.cpp) |
+| 97 | Bad Prices | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Bad-Prices.cpp) |
+| 98 | I Can Guess the Data Structure! | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/I-Can-Guess-the-Data-Structure%21.cpp) |
+| 99 | Queue | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue.cpp) |
+| 100 | Meximization | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Meximization.cpp) |
+| 101 | Case of the Zeros and Ones | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Case-of-the-Zeros-and-Ones.cpp) |
+| 102 | Potions (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Potions-%28Hard-Version%29.cpp) |
+| 103 | Kefa and First Steps | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Kefa-and-First-Steps.cpp) |
+| 104 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
+| 105 | Prepend and Append | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Prepend-and-Append.cpp) |
+| 106 | Powering the Hero (hard version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Powering-the-Hero-%28hard-version%29.cpp) |
+| 107 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence.cpp) |
+| 108 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
+| 109 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
+| 110 | Anapalindrome | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Anapalindrome.cpp) |
+| 111 | MeX is not Max | Codeforces | `gem03` | [View Code](./Codeforces/gem03/MeX-is-not-Max.cpp) |
+| 112 | Treasures in the Interval | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Treasures-in-the-Interval.cpp) |
+| 113 | Zero is not an option! | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Zero-is-not-an-option%21.cpp) |
+| 114 | Decreasing Trees | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Decreasing-Trees.cpp) |
+| 115 | Prime Dominion | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Prime-Dominion.cpp) |
+| 116 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
+| 117 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
+| 118 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
+| 119 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
+| 120 | Just Not RU... | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Just-Not-RU....cpp) |
+| 121 | Kalculating Damage | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Kalculating-Damage.cpp) |
+| 122 | EZ | Codeforces | `gem01` | [View Code](./Codeforces/gem01/EZ.cpp) |
+| 123 | Great Contest | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Great-Contest.cpp) |
+| 124 | Not Afraid to Fall | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Not-Afraid-to-Fall.cpp) |
+| 125 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
+| 126 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
+| 127 | Just Do It 1 | Codeforces | `STLs2` | [View Code](./Codeforces/STLs2/Just-Do-It-1.cpp) |
+| 128 | color | Codeforces | `gem02` | [View Code](./Codeforces/gem02/color.cpp) |
+| 129 | Forms of Forming Teams | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Forms-of-Forming-Teams.cpp) |
+| 130 | Range Information | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Range-Information.cpp) |
+| 131 | Max 2D Box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-2D-Box.cpp) |
+| 132 | Count | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Count.cpp) |
+| 133 | Sum Range | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-Range.cpp) |
+| 134 | Favorite Sequence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Favorite-Sequence.cpp) |
+| 135 | Triple | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Triple.cpp) |
+| 136 | Stupid Sensors | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Stupid-Sensors.cpp) |
+| 137 | Flower City Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Flower-City-Fence.cpp) |
+| 138 | Max Books | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-Books.cpp) |
+| 139 | Updates array | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Updates-array.cpp) |
+| 140 | Array Easy Version | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Array-Easy-Version.cpp) |
+| 141 | max box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/max-box.cpp) |
+| 142 | Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Fence.cpp) |
+| 143 | Sum pointer | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-pointer.cpp) |
+| 144 | Restaurant Customers | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Restaurant-Customers.cpp) |
