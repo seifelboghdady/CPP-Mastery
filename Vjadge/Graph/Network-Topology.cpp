@@ -52,10 +52,6 @@ int main() {
         cout<<"ring topology";
     }
     else{
-        cout<<"unknown topology";
+        cout<<"unknown topology"<<endl;
     }
-    
-    
-    
-
 }
