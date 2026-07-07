@@ -1,0 +1,6 @@
+5 5
+abcde
+abcdd
+abccc
+abbbb
+aaaaa
