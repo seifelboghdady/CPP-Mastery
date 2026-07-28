@@ -3,33 +3,29 @@ using namespace std;
 
 int n; vector<int> nums;
 
-const int N = 1e4, A= 10000, oo = 1e9;
-int dp[N][A];
+const int N = 2e5;
+int dp[N];
 
-int func(int i, int rem){
+int func(int i){
 
-    if(i==n){
-        if(rem == 0) return 0;
-        return oo;
+    if(i>=n){
+        
+        return 0;
     }
     //dp
-    int & ret = dp[i][rem];
+    int & ret = dp[i];
     if(~ret) return ret;
 
-    //transtion
-    //delete a[i]
-    ret =oo;
     
-    if(rem>0){
-        ret = 1+ func(i+1, rem);
-        
-        ret= min(ret, func(i+1, rem-1));
-    }else{
-        ret = min(ret, 1 + func(i + 1, 0));
+    ret =0;
+    
+    // leave
+    ret = func(i+1);
 
-        ret = min(ret, func(i + 1, nums[i]));
-    }
-
+    //take with condition 
+    if(nums[i]+i < n)
+        ret = max(ret, func(nums[i]+i+1)+ nums[i] + 1);
+    
     return ret;
 }
 
@@ -47,7 +43,7 @@ int main() {
             cin>>nums[i];
         }
         ::memset(dp, -1, sizeof dp);
-        cout<<func(0,0)<<endl;
+        cout<<n-func(0)<<endl;
     }
     
 }
