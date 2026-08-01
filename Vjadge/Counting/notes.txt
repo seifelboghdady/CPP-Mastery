@@ -1,0 +1,24 @@
+int factorial(int n)
+{
+    int result = 1;
+    for (int i = 2; i <= n; ++i) {
+        result *=  i;
+    }
+    return result;
+}
+
+
+---
+
+int mod_exp(int base, int exp)
+{
+    int result = 1;
+    while (exp > 0) {
+        if (exp % 2 == 1) {
+            result *=  base;
+        }
+        base *=  base;
+        exp /= 2;
+    }
+    return result;
+}
