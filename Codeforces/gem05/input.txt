@@ -1,6 +1,2 @@
-5 5
-abcde
-abcdd
-abccc
-abbbb
-aaaaa
+3 3 10
+2 3 8
