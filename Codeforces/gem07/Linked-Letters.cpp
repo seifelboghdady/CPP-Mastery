@@ -1,15 +1,16 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<vector<int>> adj;
-vector<bool> vis;
+vector<vector<int>> dict;
 
-void dfs(int n){
-    vis[n]=1;
-    for (auto u : adj[n])
+vector<int> comp;
+
+void dfs(int n, int id){
+    comp[n] = id;
+    for (auto u : dict[n])
     {
-        if(!vis[u])
-            dfs(u);
+        if(comp[u]==-1)
+            dfs(u, id);
     }
     
 }
@@ -19,25 +20,37 @@ int main() {
     cin.tie(NULL);
 
     int n, q; cin>>n>>q;
-    vector<string> dict(n);
-    for(int i =0; i<n; i++) cin>>dict[i];
-    unordered_map<string,int> pos;
-    for(int i=0;i<n;i++)
-        pos[dict[i]]=i;
-
-    adj.assign(n+1, {});
-    vis.assign(n+1, 0);
-    for (int i = 0; i < n-1; i++)
+    // vector<vector<int>> dict(n+26);
+    dict.assign(n+26, {});
+    for(int i =0; i<n; i++) {
+        string st; cin>>st;
+        for(char c: st){
+            dict[i].push_back(n+(c-'a'));
+            dict[n+(c-'a')].push_back(i);
+        }
+    }
+    
+    // for (int i = 0; i < n-1; i++)
+    // {
+    //     adj[i].push_back(i+1);
+    // }
+    
+    // vis.assign(n+26, 0);
+    comp.assign(n+26, -1);
+    int id = 0;
+    for (int i = 0; i < n+26; i++)
     {
-        adj[i].push_back(i+1);
+        if(comp[i]==-1){
+            dfs(i, id);
+            id++;
+        }
     }
     
     
     while (q--)
     {
         string a, b; cin>>a>>b;
-        dfs(pos[a]);
-        if(vis[pos[b]]){
+        if(comp[n+(a[0]-'a')] == comp[n+(b[0]-'a')]){
             cout<<"LUA"<<'\n';
         }else{
             cout<<"RYEI"<<'\n';
