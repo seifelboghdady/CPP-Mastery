@@ -3,19 +3,19 @@
 Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Activity Dashboard
-<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Codeforces%22%2C%20%22Vjadge%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B113%2C%20102%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
+<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Codeforces%22%2C%20%22Vjadge%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B114%2C%20102%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
 
 ### 🏆 Stats Summary
-![Codeforces](https://img.shields.io/badge/Codeforces-113_Solved-orange?style=for-the-badge&logo=codeforces) 
+![Codeforces](https://img.shields.io/badge/Codeforces-114_Solved-orange?style=for-the-badge&logo=codeforces) 
 
 ![Vjadge](https://img.shields.io/badge/Vjadge-102_Solved-red?style=for-the-badge&logo=codeforces) 
 
 ### 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Codeforces** | 113 |
+| **Codeforces** | 114 |
 | **Vjadge** | 102 |
-| **Total** | **215** |
+| **Total** | **216** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -153,85 +153,86 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 131 | Auchenai's Letter | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Auchenai%27s-Letter.cpp) |
 | 132 | Evenly Separable | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Evenly-Separable.cpp) |
 | 133 | Forms of Forming Teams | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Forms-of-Forming-Teams.cpp) |
-| 134 | Range Information | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Range-Information.cpp) |
-| 135 | A Colorful Tree | Codeforces | `gem01` | [View Code](./Codeforces/gem01/A-Colorful-Tree.cpp) |
-| 136 | Not Afraid to Fall | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Not-Afraid-to-Fall.cpp) |
-| 137 | Beats | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Beats.cpp) |
-| 138 | Chasing the Treasure | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Chasing-the-Treasure.cpp) |
-| 139 | EZ | Codeforces | `gem01` | [View Code](./Codeforces/gem01/EZ.cpp) |
-| 140 | Just Not RU... | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Just-Not-RU....cpp) |
-| 141 | Great Contest | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Great-Contest.cpp) |
-| 142 | Kalculating Damage | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Kalculating-Damage.cpp) |
-| 143 | Mahmoud and a Triangle | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Mahmoud-and-a-Triangle.cpp) |
-| 144 | Really..! | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Really..%21.cpp) |
-| 145 | Life of a Flower | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Life-of-a-Flower.cpp) |
-| 146 | Cursed Crew | Codeforces | `COD` | [View Code](./Codeforces/COD/Cursed-Crew.cpp) |
-| 147 | Welcome Aboard | Codeforces | `COD` | [View Code](./Codeforces/COD/Welcome-Aboard.cpp) |
-| 148 | Turning the Cannons | Codeforces | `COD` | [View Code](./Codeforces/COD/Turning-the-Cannons.cpp) |
-| 149 | Coach Academy | Codeforces | `COD` | [View Code](./Codeforces/COD/Coach-Academy.cpp) |
-| 150 | Treasure Map Cost | Codeforces | `COD` | [View Code](./Codeforces/COD/Treasure-Map-Cost.cpp) |
-| 151 | Meximization | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Meximization.cpp) |
-| 152 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
-| 153 | Game with string | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Game-with-string.cpp) |
-| 154 | Case of the Zeros and Ones | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Case-of-the-Zeros-and-Ones.cpp) |
-| 155 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
-| 156 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
-| 157 | Queue | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue.cpp) |
-| 158 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence.cpp) |
-| 159 | Deque Easy version | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Deque-Easy-version.cpp) |
-| 160 | Kefa and First Steps | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Kefa-and-First-Steps.cpp) |
-| 161 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
-| 162 | Powering the Hero (hard version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Powering-the-Hero-%28hard-version%29.cpp) |
-| 163 | Potions (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Potions-%28Hard-Version%29.cpp) |
-| 164 | Bad Prices | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Bad-Prices.cpp) |
-| 165 | Table Tennis | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Table-Tennis.cpp) |
-| 166 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
-| 167 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
-| 168 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
-| 169 | I Can Guess the Data Structure! | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/I-Can-Guess-the-Data-Structure%21.cpp) |
-| 170 | Prepend and Append | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Prepend-and-Append.cpp) |
-| 171 | Alternating Current | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Alternating-Current.cpp) |
-| 172 | Flower City Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Flower-City-Fence.cpp) |
-| 173 | Favorite Sequence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Favorite-Sequence.cpp) |
-| 174 | Array Easy Version | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Array-Easy-Version.cpp) |
-| 175 | max box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/max-box.cpp) |
-| 176 | Sum pointer | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-pointer.cpp) |
-| 177 | Updates array | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Updates-array.cpp) |
-| 178 | Count | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Count.cpp) |
-| 179 | Max Books | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-Books.cpp) |
-| 180 | Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Fence.cpp) |
-| 181 | Sum Range | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-Range.cpp) |
-| 182 | Stupid Sensors | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Stupid-Sensors.cpp) |
-| 183 | Restaurant Customers | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Restaurant-Customers.cpp) |
-| 184 | Max 2D Box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-2D-Box.cpp) |
-| 185 | Triple | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Triple.cpp) |
-| 186 | D. A Distinct Problem | Codeforces | `Gem08` | [View Code](./Codeforces/Gem08/D.-A-Distinct-Problem.cpp) |
-| 187 | I. Standoff | Codeforces | `Gem08` | [View Code](./Codeforces/Gem08/I.-Standoff.cpp) |
-| 188 | Counting VIP Guests | Codeforces | `Gem08` | [View Code](./Codeforces/Gem08/Counting-VIP-Guests.cpp) |
-| 189 | L. Decompose and Concatenate | Codeforces | `Gem08` | [View Code](./Codeforces/Gem08/L.-Decompose-and-Concatenate.cpp) |
-| 190 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
-| 191 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
-| 192 | Riptide | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Riptide.cpp) |
-| 193 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
-| 194 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
-| 195 | 3d | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/3d.cpp) |
-| 196 | Weird Function1 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
-| 197 | Vlad and theBest of Five | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Vlad-and-theBest-of-Five.cpp) |
-| 198 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
-| 199 | Weird Function2 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function2.cpp) |
-| 200 | Sort Rectangles | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Sort-Rectangles.cpp) |
-| 201 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
-| 202 | most similar word | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/most-similar-word.cpp) |
-| 203 | Two Scooters | Codeforces | `Gem06` | [View Code](./Codeforces/Gem06/Two-Scooters.cpp) |
-| 204 | The Washing | Codeforces | `Gem06` | [View Code](./Codeforces/Gem06/The-Washing.cpp) |
-| 205 | Guidi wants | Codeforces | `Gem06` | [View Code](./Codeforces/Gem06/Guidi-wants.cpp) |
-| 206 | XORnacci | Codeforces | `Gem06` | [View Code](./Codeforces/Gem06/XORnacci.cpp) |
-| 207 | The max bit | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/The-max-bit.cpp) |
-| 208 | Best University ID | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Best-University-ID.cpp) |
-| 209 | Secret Club | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Secret-Club.cpp) |
-| 210 | Greatest Math Problem | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Greatest-Math-Problem.cpp) |
-| 211 | Harada Football Clube | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Harada-Football-Clube.cpp) |
-| 212 | Battle in space | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Battle-in-space.cpp) |
-| 213 | Just Do It 1 | Codeforces | `STLs2` | [View Code](./Codeforces/STLs2/Just-Do-It-1.cpp) |
-| 214 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
-| 215 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
+| 134 | Good Subarrays | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Good-Subarrays.cpp) |
+| 135 | Range Information | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Range-Information.cpp) |
+| 136 | A Colorful Tree | Codeforces | `gem01` | [View Code](./Codeforces/gem01/A-Colorful-Tree.cpp) |
+| 137 | Not Afraid to Fall | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Not-Afraid-to-Fall.cpp) |
+| 138 | Beats | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Beats.cpp) |
+| 139 | Chasing the Treasure | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Chasing-the-Treasure.cpp) |
+| 140 | EZ | Codeforces | `gem01` | [View Code](./Codeforces/gem01/EZ.cpp) |
+| 141 | Just Not RU... | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Just-Not-RU....cpp) |
+| 142 | Great Contest | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Great-Contest.cpp) |
+| 143 | Kalculating Damage | Codeforces | `gem01` | [View Code](./Codeforces/gem01/Kalculating-Damage.cpp) |
+| 144 | Mahmoud and a Triangle | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Mahmoud-and-a-Triangle.cpp) |
+| 145 | Really..! | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Really..%21.cpp) |
+| 146 | Life of a Flower | Codeforces | `Context4` | [View Code](./Codeforces/Context4/Life-of-a-Flower.cpp) |
+| 147 | Cursed Crew | Codeforces | `COD` | [View Code](./Codeforces/COD/Cursed-Crew.cpp) |
+| 148 | Welcome Aboard | Codeforces | `COD` | [View Code](./Codeforces/COD/Welcome-Aboard.cpp) |
+| 149 | Turning the Cannons | Codeforces | `COD` | [View Code](./Codeforces/COD/Turning-the-Cannons.cpp) |
+| 150 | Coach Academy | Codeforces | `COD` | [View Code](./Codeforces/COD/Coach-Academy.cpp) |
+| 151 | Treasure Map Cost | Codeforces | `COD` | [View Code](./Codeforces/COD/Treasure-Map-Cost.cpp) |
+| 152 | Meximization | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Meximization.cpp) |
+| 153 | Regular Bracket Sequence (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Hard-Version%29.cpp) |
+| 154 | Game with string | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Game-with-string.cpp) |
+| 155 | Case of the Zeros and Ones | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Case-of-the-Zeros-and-Ones.cpp) |
+| 156 | Highest Y | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Highest-Y.cpp) |
+| 157 | Queue Using Operations | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-Using-Operations.cpp) |
+| 158 | Queue | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue.cpp) |
+| 159 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence.cpp) |
+| 160 | Deque Easy version | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Deque-Easy-version.cpp) |
+| 161 | Kefa and First Steps | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Kefa-and-First-Steps.cpp) |
+| 162 | Regular Bracket Sequence (Easy Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular-Bracket-Sequence-%28Easy-Version%29.cpp) |
+| 163 | Powering the Hero (hard version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Powering-the-Hero-%28hard-version%29.cpp) |
+| 164 | Potions (Hard Version) | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Potions-%28Hard-Version%29.cpp) |
+| 165 | Bad Prices | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Bad-Prices.cpp) |
+| 166 | Table Tennis | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Table-Tennis.cpp) |
+| 167 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
+| 168 | Queue ID | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Queue-ID.cpp) |
+| 169 | Permutation Minimization by Deque | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Permutation-Minimization-by-Deque.cpp) |
+| 170 | I Can Guess the Data Structure! | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/I-Can-Guess-the-Data-Structure%21.cpp) |
+| 171 | Prepend and Append | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Prepend-and-Append.cpp) |
+| 172 | Alternating Current | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Alternating-Current.cpp) |
+| 173 | Flower City Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Flower-City-Fence.cpp) |
+| 174 | Favorite Sequence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Favorite-Sequence.cpp) |
+| 175 | Array Easy Version | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Array-Easy-Version.cpp) |
+| 176 | max box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/max-box.cpp) |
+| 177 | Sum pointer | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-pointer.cpp) |
+| 178 | Updates array | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Updates-array.cpp) |
+| 179 | Count | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Count.cpp) |
+| 180 | Max Books | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-Books.cpp) |
+| 181 | Fence | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Fence.cpp) |
+| 182 | Sum Range | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Sum-Range.cpp) |
+| 183 | Stupid Sensors | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Stupid-Sensors.cpp) |
+| 184 | Restaurant Customers | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Restaurant-Customers.cpp) |
+| 185 | Max 2D Box | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Max-2D-Box.cpp) |
+| 186 | Triple | Codeforces | `Ad-hocs` | [View Code](./Codeforces/Ad-hocs/Triple.cpp) |
+| 187 | D. A Distinct Problem | Codeforces | `Gem08` | [View Code](./Codeforces/Gem08/D.-A-Distinct-Problem.cpp) |
+| 188 | I. Standoff | Codeforces | `Gem08` | [View Code](./Codeforces/Gem08/I.-Standoff.cpp) |
+| 189 | Counting VIP Guests | Codeforces | `Gem08` | [View Code](./Codeforces/Gem08/Counting-VIP-Guests.cpp) |
+| 190 | L. Decompose and Concatenate | Codeforces | `Gem08` | [View Code](./Codeforces/Gem08/L.-Decompose-and-Concatenate.cpp) |
+| 191 | Deletion Sort | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Deletion-Sort.cpp) |
+| 192 | Eating Game | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Eating%20Game.cpp) |
+| 193 | Riptide | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Riptide.cpp) |
+| 194 | Divisive Battle | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Divisive-Battle.cpp) |
+| 195 | Specialty String | Codeforces | `Codeforces-Round1084(Div. 3)` | [View Code](./Codeforces/Codeforces-Round1084%28Div.%203%29/Specialty-String.cpp) |
+| 196 | 3d | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/3d.cpp) |
+| 197 | Weird Function1 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function1.cpp) |
+| 198 | Vlad and theBest of Five | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Vlad-and-theBest-of-Five.cpp) |
+| 199 | Three Numbers Sum | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Three-Numbers-Sum.cpp) |
+| 200 | Weird Function2 | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Weird-Function2.cpp) |
+| 201 | Sort Rectangles | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Sort-Rectangles.cpp) |
+| 202 | Swap function | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/Swap-function.cpp) |
+| 203 | most similar word | Codeforces | `Time _Complexity` | [View Code](./Codeforces/Time%20_Complexity/most-similar-word.cpp) |
+| 204 | Two Scooters | Codeforces | `Gem06` | [View Code](./Codeforces/Gem06/Two-Scooters.cpp) |
+| 205 | The Washing | Codeforces | `Gem06` | [View Code](./Codeforces/Gem06/The-Washing.cpp) |
+| 206 | Guidi wants | Codeforces | `Gem06` | [View Code](./Codeforces/Gem06/Guidi-wants.cpp) |
+| 207 | XORnacci | Codeforces | `Gem06` | [View Code](./Codeforces/Gem06/XORnacci.cpp) |
+| 208 | The max bit | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/The-max-bit.cpp) |
+| 209 | Best University ID | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Best-University-ID.cpp) |
+| 210 | Secret Club | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Secret-Club.cpp) |
+| 211 | Greatest Math Problem | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Greatest-Math-Problem.cpp) |
+| 212 | Harada Football Clube | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Harada-Football-Clube.cpp) |
+| 213 | Battle in space | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Battle-in-space.cpp) |
+| 214 | Just Do It 1 | Codeforces | `STLs2` | [View Code](./Codeforces/STLs2/Just-Do-It-1.cpp) |
+| 215 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
+| 216 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
