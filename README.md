@@ -3,19 +3,19 @@
 Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Activity Dashboard
-<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Codeforces%22%2C%20%22Vjadge%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B117%2C%20102%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
+<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Codeforces%22%2C%20%22Vjadge%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B118%2C%20102%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
 
 ### 🏆 Stats Summary
-![Codeforces](https://img.shields.io/badge/Codeforces-117_Solved-orange?style=for-the-badge&logo=codeforces) 
+![Codeforces](https://img.shields.io/badge/Codeforces-118_Solved-orange?style=for-the-badge&logo=codeforces) 
 
 ![Vjadge](https://img.shields.io/badge/Vjadge-102_Solved-red?style=for-the-badge&logo=codeforces) 
 
 ### 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Codeforces** | 117 |
+| **Codeforces** | 118 |
 | **Vjadge** | 102 |
-| **Total** | **219** |
+| **Total** | **220** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -233,9 +233,10 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 211 | Greatest Math Problem | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Greatest-Math-Problem.cpp) |
 | 212 | Harada Football Clube | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Harada-Football-Clube.cpp) |
 | 213 | Battle in space | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Battle-in-space.cpp) |
-| 214 | Just Do It 1 | Codeforces | `STLs2` | [View Code](./Codeforces/STLs2/Just-Do-It-1.cpp) |
-| 215 | Cinema Ticket | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Cinema-Ticket.cpp) |
-| 216 | Aurora Library's | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Aurora-Library%27s.cpp) |
-| 217 | Next Clock Minute | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Next-Clock-Minute.cpp) |
-| 218 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
-| 219 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
+| 214 | ThreeNumbers | Codeforces | `MyContext` | [View Code](./Codeforces/MyContext/ThreeNumbers.cpp) |
+| 215 | Just Do It 1 | Codeforces | `STLs2` | [View Code](./Codeforces/STLs2/Just-Do-It-1.cpp) |
+| 216 | Cinema Ticket | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Cinema-Ticket.cpp) |
+| 217 | Aurora Library's | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Aurora-Library%27s.cpp) |
+| 218 | Next Clock Minute | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Next-Clock-Minute.cpp) |
+| 219 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
+| 220 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
