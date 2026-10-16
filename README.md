@@ -3,19 +3,19 @@
 Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Activity Dashboard
-<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Vjadge%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B103%2C%20122%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
+<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Vjadge%22%2C%20%22Codeforces%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B105%2C%20122%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
 
 ### 🏆 Stats Summary
-![Vjadge](https://img.shields.io/badge/Vjadge-103_Solved-red?style=for-the-badge&logo=codeforces) 
+![Vjadge](https://img.shields.io/badge/Vjadge-105_Solved-red?style=for-the-badge&logo=codeforces) 
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-122_Solved-orange?style=for-the-badge&logo=codeforces) 
 
 ### 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Vjadge** | 103 |
+| **Vjadge** | 105 |
 | **Codeforces** | 122 |
-| **Total** | **225** |
+| **Total** | **227** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -203,45 +203,47 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 181 | Network Topology | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Network-Topology.cpp) |
 | 182 | Counting Roads | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Counting-Roads.cpp) |
 | 183 | Friends | Vjadge | `Graph` | [View Code](./Vjadge/Graph/Friends.cpp) |
-| 184 | Bonus EXP | Vjadge | `DP` | [View Code](./Vjadge/DP/Bonus-EXP.cpp) |
-| 185 | Grid 1 | Vjadge | `DP` | [View Code](./Vjadge/DP/Grid-1.cpp) |
-| 186 | frog2 | Vjadge | `DP` | [View Code](./Vjadge/DP/frog2.cpp) |
-| 187 | LCS | Vjadge | `DP` | [View Code](./Vjadge/DP/LCS.cpp) |
-| 188 | test1 | Vjadge | `DP` | [View Code](./Vjadge/DP/test1.cpp) |
-| 189 | Block Sequence | Vjadge | `DP` | [View Code](./Vjadge/DP/Block-Sequence.cpp) |
-| 190 | Mortal Kombat | Vjadge | `DP` | [View Code](./Vjadge/DP/Mortal-Kombat.cpp) |
-| 191 | Vacations | Vjadge | `DP` | [View Code](./Vjadge/DP/Vacations.cpp) |
-| 192 | Coin Change | Vjadge | `DP` | [View Code](./Vjadge/DP/Coin-Change.cpp) |
-| 193 | Projects | Vjadge | `DP` | [View Code](./Vjadge/DP/Projects.cpp) |
-| 194 | Sleeping Schedule | Vjadge | `DP` | [View Code](./Vjadge/DP/Sleeping-Schedule.cpp) |
-| 195 | Grid 2 | Vjadge | `DP` | [View Code](./Vjadge/DP/Grid-2.cpp) |
-| 196 | Knapsack | Vjadge | `DP` | [View Code](./Vjadge/DP/Knapsack.cpp) |
-| 197 | Wachovia Bank | Vjadge | `DP` | [View Code](./Vjadge/DP/Wachovia-Bank.cpp) |
-| 198 | Bytelandian gold coins | Vjadge | `DP` | [View Code](./Vjadge/DP/Bytelandian-gold-coins.cpp) |
-| 199 | Princess Farida | Vjadge | `DP` | [View Code](./Vjadge/DP/Princess-Farida.cpp) |
-| 200 | frog | Vjadge | `DP` | [View Code](./Vjadge/DP/frog.cpp) |
-| 201 | Scuba diver | Vjadge | `DP` | [View Code](./Vjadge/DP/Scuba-diver.cpp) |
-| 202 | lesson | Vjadge | `BackTracking` | [View Code](./Vjadge/BackTracking/lesson.cpp) |
-| 203 | Get k th pair | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Get-k-th-pair.cpp) |
-| 204 | Three Base Stations | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Three-Base-Stations.cpp) |
-| 205 | March Rain | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/March-Rain.cpp) |
-| 206 | Nubian Market | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Nubian-Market.cpp) |
-| 207 | Magic Powder | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Magic-Powder.cpp) |
-| 208 | Balanced Team | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Balanced-Team.cpp) |
-| 209 | Worms | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Worms.cpp) |
-| 210 | Interesting drink | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Interesting-drink.cpp) |
-| 211 | Factory Machines | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Factory-Machines.cpp) |
-| 212 | Aggressive cows | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Aggressive-cows.cpp) |
-| 213 | Kefa and Company | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Kefa-and-Company.cpp) |
-| 214 | XOR Mixup | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/XOR-Mixup.cpp) |
-| 215 | Maximizing XOR | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Maximizing-XOR.cpp) |
-| 216 | test | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/test.cpp) |
-| 217 | lesson01 | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/lesson01.cpp) |
-| 218 | Flipping bits | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Flipping-bits.cpp) |
-| 219 | Little Elephant | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Little-Elephant.cpp) |
-| 220 | Range Xo Queries | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Range-Xo-Queries.cpp) |
-| 221 | XORwice | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/XORwice.cpp) |
-| 222 | Bitwise Operators | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Bitwise-Operators.cpp) |
-| 223 | Raising Bacteria | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Raising-Bacteria.cpp) |
-| 224 | New Year | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/New-Year.cpp) |
-| 225 | Bit Strings | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Bit-Strings.cpp) |
+| 184 | Slimes | Vjadge | `DP-Ranges,-Subarrays` | [View Code](./Vjadge/DP-Ranges%2C-Subarrays/Slimes.cpp) |
+| 185 | Cutting Sticks | Vjadge | `DP-Ranges,-Subarrays` | [View Code](./Vjadge/DP-Ranges%2C-Subarrays/Cutting-Sticks.cpp) |
+| 186 | Bonus EXP | Vjadge | `DP` | [View Code](./Vjadge/DP/Bonus-EXP.cpp) |
+| 187 | Grid 1 | Vjadge | `DP` | [View Code](./Vjadge/DP/Grid-1.cpp) |
+| 188 | frog2 | Vjadge | `DP` | [View Code](./Vjadge/DP/frog2.cpp) |
+| 189 | LCS | Vjadge | `DP` | [View Code](./Vjadge/DP/LCS.cpp) |
+| 190 | test1 | Vjadge | `DP` | [View Code](./Vjadge/DP/test1.cpp) |
+| 191 | Block Sequence | Vjadge | `DP` | [View Code](./Vjadge/DP/Block-Sequence.cpp) |
+| 192 | Mortal Kombat | Vjadge | `DP` | [View Code](./Vjadge/DP/Mortal-Kombat.cpp) |
+| 193 | Vacations | Vjadge | `DP` | [View Code](./Vjadge/DP/Vacations.cpp) |
+| 194 | Coin Change | Vjadge | `DP` | [View Code](./Vjadge/DP/Coin-Change.cpp) |
+| 195 | Projects | Vjadge | `DP` | [View Code](./Vjadge/DP/Projects.cpp) |
+| 196 | Sleeping Schedule | Vjadge | `DP` | [View Code](./Vjadge/DP/Sleeping-Schedule.cpp) |
+| 197 | Grid 2 | Vjadge | `DP` | [View Code](./Vjadge/DP/Grid-2.cpp) |
+| 198 | Knapsack | Vjadge | `DP` | [View Code](./Vjadge/DP/Knapsack.cpp) |
+| 199 | Wachovia Bank | Vjadge | `DP` | [View Code](./Vjadge/DP/Wachovia-Bank.cpp) |
+| 200 | Bytelandian gold coins | Vjadge | `DP` | [View Code](./Vjadge/DP/Bytelandian-gold-coins.cpp) |
+| 201 | Princess Farida | Vjadge | `DP` | [View Code](./Vjadge/DP/Princess-Farida.cpp) |
+| 202 | frog | Vjadge | `DP` | [View Code](./Vjadge/DP/frog.cpp) |
+| 203 | Scuba diver | Vjadge | `DP` | [View Code](./Vjadge/DP/Scuba-diver.cpp) |
+| 204 | lesson | Vjadge | `BackTracking` | [View Code](./Vjadge/BackTracking/lesson.cpp) |
+| 205 | Get k th pair | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Get-k-th-pair.cpp) |
+| 206 | Three Base Stations | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Three-Base-Stations.cpp) |
+| 207 | March Rain | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/March-Rain.cpp) |
+| 208 | Nubian Market | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Nubian-Market.cpp) |
+| 209 | Magic Powder | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Magic-Powder.cpp) |
+| 210 | Balanced Team | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Balanced-Team.cpp) |
+| 211 | Worms | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Worms.cpp) |
+| 212 | Interesting drink | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Interesting-drink.cpp) |
+| 213 | Factory Machines | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Factory-Machines.cpp) |
+| 214 | Aggressive cows | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Aggressive-cows.cpp) |
+| 215 | Kefa and Company | Vjadge | `Binary Search` | [View Code](./Vjadge/Binary%20Search/Kefa-and-Company.cpp) |
+| 216 | XOR Mixup | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/XOR-Mixup.cpp) |
+| 217 | Maximizing XOR | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Maximizing-XOR.cpp) |
+| 218 | test | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/test.cpp) |
+| 219 | lesson01 | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/lesson01.cpp) |
+| 220 | Flipping bits | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Flipping-bits.cpp) |
+| 221 | Little Elephant | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Little-Elephant.cpp) |
+| 222 | Range Xo Queries | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Range-Xo-Queries.cpp) |
+| 223 | XORwice | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/XORwice.cpp) |
+| 224 | Bitwise Operators | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Bitwise-Operators.cpp) |
+| 225 | Raising Bacteria | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Raising-Bacteria.cpp) |
+| 226 | New Year | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/New-Year.cpp) |
+| 227 | Bit Strings | Vjadge | `Bitwise Operation` | [View Code](./Vjadge/Bitwise%20Operation/Bit-Strings.cpp) |
