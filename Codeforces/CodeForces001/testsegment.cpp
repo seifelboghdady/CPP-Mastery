@@ -3,7 +3,11 @@
 using namespace std;
 
 vector<int> a ;
-vector<ll> seg;
+vector<int> seg;
+
+int merge(int left, int right){
+    return min(left, right);
+}
 
 void build(int node, int l, int r){
     if(l==r){
@@ -15,13 +19,13 @@ void build(int node, int l, int r){
     build(node *2, l, mid);
     build(node * 2 + 1, mid+1, r);
 
-    seg[node] = seg[node * 2] + seg[node *2 +1];
+    seg[node] = merge(seg[node * 2] , seg[node *2 +1]);
 }
 
 ll query(int node, int l, int r, int ql, int qr){
     //no overlap
     if(r<ql||l>qr){
-        return 0;
+        return INT_MAX;
     }
     //complete
     if(ql<=l && r<=qr){
@@ -29,9 +33,9 @@ ll query(int node, int l, int r, int ql, int qr){
     }
     //partial
     int mid = (l+r)/2;
-    ll left = query(node*2, l, mid, ql, qr);
-    ll right = query(node*2+1, mid+1, r, ql, qr);
-    return right+left;
+    int left = query(node*2, l, mid, ql, qr);
+    int right = query(node*2+1, mid+1, r, ql, qr);
+    return merge(right,left);
 }
 
 void update(int node, int l, int r, int idx, int val) {
@@ -52,7 +56,7 @@ void update(int node, int l, int r, int idx, int val) {
         update(node*2+1, mid+1, r, idx, val);
     }
 
-    seg[node]= seg[node * 2] + seg[node * 2 + 1];
+    seg[node]= merge(seg[node * 2] , seg[node * 2 + 1]);
 }
 
 int main() {
