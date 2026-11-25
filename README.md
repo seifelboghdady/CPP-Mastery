@@ -3,19 +3,19 @@
 Welcome to my automated portfolio. This README is updated automatically.
 
 ## 📊 Activity Dashboard
-<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Codeforces%22%2C%20%22Vjadge%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B134%2C%20116%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
+<img src='https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Codeforces%22%2C%20%22Vjadge%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B136%2C%20116%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D&w=300&h=300' width='300' align='right' />
 
 ### 🏆 Stats Summary
-![Codeforces](https://img.shields.io/badge/Codeforces-134_Solved-orange?style=for-the-badge&logo=codeforces) 
+![Codeforces](https://img.shields.io/badge/Codeforces-136_Solved-orange?style=for-the-badge&logo=codeforces) 
 
 ![Vjadge](https://img.shields.io/badge/Vjadge-116_Solved-red?style=for-the-badge&logo=codeforces) 
 
 ### 📊 Statistics
 | Platform | Solved |
 |--- | ---|
-| **Codeforces** | 134 |
+| **Codeforces** | 136 |
 | **Vjadge** | 116 |
-| **Total** | **250** |
+| **Total** | **252** |
 
 ## 📚 Problem Archive
 | # | Problem Name | Platform | Topic | Solution |
@@ -230,43 +230,45 @@ Welcome to my automated portfolio. This README is updated automatically.
 | 208 | Bad Prices | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Bad-Prices.cpp) |
 | 209 | Alternating Current | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Alternating-Current.cpp) |
 | 210 | Regular Bracket Sequence | Codeforces | `STLs1` | [View Code](./Codeforces/STLs1/Regular%20Bracket%20Sequence.cpp) |
-| 211 | Marching | Codeforces | `ICPC2018` | [View Code](./Codeforces/ICPC2018/Marching.cpp) |
-| 212 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
-| 213 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
-| 214 | Aurora Library's | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Aurora-Library%27s.cpp) |
-| 215 | Cinema Ticket | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Cinema-Ticket.cpp) |
-| 216 | Next Clock Minute | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Next-Clock-Minute.cpp) |
-| 217 | MeX is not Max | Codeforces | `gem03` | [View Code](./Codeforces/gem03/MeX-is-not-Max.cpp) |
-| 218 | Treasures in the Interval | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Treasures-in-the-Interval.cpp) |
-| 219 | Anapalindrome | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Anapalindrome.cpp) |
-| 220 | Decreasing Trees | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Decreasing-Trees.cpp) |
-| 221 | Prime Dominion | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Prime-Dominion.cpp) |
-| 222 | Zero is not an option! | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Zero-is-not-an-option%21.cpp) |
-| 223 | Xenia and Bit | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Xenia-and-Bit.cpp) |
-| 224 | testsegment | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/testsegment.cpp) |
-| 225 | Sereja | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Sereja.cpp) |
-| 226 | The Projections of Paco | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/The-Projections-of-Paco.cpp) |
-| 227 | Dragons | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Dragons.cpp) |
-| 228 | Stakes and Shapes | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Stakes-and-Shapes.cpp) |
-| 229 | Puzzles | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Puzzles.cpp) |
-| 230 | Distinct Characters | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Distinct-Characters.cpp) |
-| 231 | Fraction and Six | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Fraction-and-Six.cpp) |
-| 232 | Ant colony | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Ant-colony.cpp) |
-| 233 | Math and Physics | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Math-and-Physics.cpp) |
-| 234 | Just Do It 1 | Codeforces | `STLs2` | [View Code](./Codeforces/STLs2/Just-Do-It-1.cpp) |
-| 235 | Nonexistent | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Nonexistent.cpp) |
-| 236 | Min Nim | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Min-Nim.cpp) |
-| 237 | Evenly Separable | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Evenly-Separable.cpp) |
-| 238 | Good Subarrays | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Good-Subarrays.cpp) |
-| 239 | Range Information | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Range-Information.cpp) |
-| 240 | Forms of Forming Teams | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Forms-of-Forming-Teams.cpp) |
-| 241 | color | Codeforces | `gem02` | [View Code](./Codeforces/gem02/color.cpp) |
-| 242 | Shortest Travel | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Shortest-Travel.cpp) |
-| 243 | Auchenai's Letter | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Auchenai%27s-Letter.cpp) |
-| 244 | Zigzag Sort | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Zigzag-Sort.cpp) |
-| 245 | The max bit | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/The-max-bit.cpp) |
-| 246 | Best University ID | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Best-University-ID.cpp) |
-| 247 | Secret Club | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Secret-Club.cpp) |
-| 248 | Greatest Math Problem | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Greatest-Math-Problem.cpp) |
-| 249 | Battle in space | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Battle-in-space.cpp) |
-| 250 | Harada Football Clube | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Harada-Football-Clube.cpp) |
+| 211 | Now | Codeforces | `ICPC2018` | [View Code](./Codeforces/ICPC2018/Now.cpp) |
+| 212 | Zeros and Ones | Codeforces | `ICPC2018` | [View Code](./Codeforces/ICPC2018/Zeros-and-Ones.cpp) |
+| 213 | Marching | Codeforces | `ICPC2018` | [View Code](./Codeforces/ICPC2018/Marching.cpp) |
+| 214 | Artistic Balance Tree | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Artistic-Balance-Tree.cpp) |
+| 215 | Wonderful Contest | Codeforces | `Codeforces Round 1094` | [View Code](./Codeforces/Codeforces%20Round%201094/Wonderful-Contest.cpp) |
+| 216 | Aurora Library's | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Aurora-Library%27s.cpp) |
+| 217 | Cinema Ticket | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Cinema-Ticket.cpp) |
+| 218 | Next Clock Minute | Codeforces | `Qualifications - Day 5` | [View Code](./Codeforces/Qualifications%20-%20Day%205/Next-Clock-Minute.cpp) |
+| 219 | MeX is not Max | Codeforces | `gem03` | [View Code](./Codeforces/gem03/MeX-is-not-Max.cpp) |
+| 220 | Treasures in the Interval | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Treasures-in-the-Interval.cpp) |
+| 221 | Anapalindrome | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Anapalindrome.cpp) |
+| 222 | Decreasing Trees | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Decreasing-Trees.cpp) |
+| 223 | Prime Dominion | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Prime-Dominion.cpp) |
+| 224 | Zero is not an option! | Codeforces | `gem03` | [View Code](./Codeforces/gem03/Zero-is-not-an-option%21.cpp) |
+| 225 | Xenia and Bit | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Xenia-and-Bit.cpp) |
+| 226 | testsegment | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/testsegment.cpp) |
+| 227 | Sereja | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Sereja.cpp) |
+| 228 | The Projections of Paco | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/The-Projections-of-Paco.cpp) |
+| 229 | Dragons | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Dragons.cpp) |
+| 230 | Stakes and Shapes | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Stakes-and-Shapes.cpp) |
+| 231 | Puzzles | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Puzzles.cpp) |
+| 232 | Distinct Characters | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Distinct-Characters.cpp) |
+| 233 | Fraction and Six | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Fraction-and-Six.cpp) |
+| 234 | Ant colony | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Ant-colony.cpp) |
+| 235 | Math and Physics | Codeforces | `CodeForces001` | [View Code](./Codeforces/CodeForces001/Math-and-Physics.cpp) |
+| 236 | Just Do It 1 | Codeforces | `STLs2` | [View Code](./Codeforces/STLs2/Just-Do-It-1.cpp) |
+| 237 | Nonexistent | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Nonexistent.cpp) |
+| 238 | Min Nim | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Min-Nim.cpp) |
+| 239 | Evenly Separable | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Evenly-Separable.cpp) |
+| 240 | Good Subarrays | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Good-Subarrays.cpp) |
+| 241 | Range Information | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Range-Information.cpp) |
+| 242 | Forms of Forming Teams | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Forms-of-Forming-Teams.cpp) |
+| 243 | color | Codeforces | `gem02` | [View Code](./Codeforces/gem02/color.cpp) |
+| 244 | Shortest Travel | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Shortest-Travel.cpp) |
+| 245 | Auchenai's Letter | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Auchenai%27s-Letter.cpp) |
+| 246 | Zigzag Sort | Codeforces | `gem02` | [View Code](./Codeforces/gem02/Zigzag-Sort.cpp) |
+| 247 | The max bit | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/The-max-bit.cpp) |
+| 248 | Best University ID | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Best-University-ID.cpp) |
+| 249 | Secret Club | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Secret-Club.cpp) |
+| 250 | Greatest Math Problem | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Greatest-Math-Problem.cpp) |
+| 251 | Battle in space | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Battle-in-space.cpp) |
+| 252 | Harada Football Clube | Codeforces | `Goodby` | [View Code](./Codeforces/Goodby/Harada-Football-Clube.cpp) |
